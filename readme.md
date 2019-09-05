@@ -6,3 +6,4 @@ I hope this is no problem
 
 Stashing
 
+The commit needs to be reset
