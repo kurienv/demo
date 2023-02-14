@@ -1,0 +1,1003 @@
+CustNo,Search,Name,BillAcctId,ShowNonActive,ShowSalespeople,ShowSecondarySalesPeople,ShowBuyers,Skip,Take,Count
+198555,,,198555,true,true,false,true,0,353,false
+1602,,"*CASH*",,false,true,false,false,52,2,false
+2607,2607,,,false,true,false,false,65,821,true
+4212,,,4212,false,true,true,true,0,932,false
+4723,,"*JANESVILLE*",,true,true,false,false,92,818,false
+5723,,"*ADVANCE*",,false,true,false,false,91,659,false
+5803,,"*CALDWELL*",,false,false,false,false,74,519,true
+5807,,,5807,true,true,true,false,0,775,true
+5910,,,5910,true,false,false,false,0,755,true
+8206,,,8206,false,false,true,true,0,651,true
+8215,,"*SSCC*",,false,false,true,false,73,81,true
+9115,"ASSOCIATE SALES - ST HELEN",,,true,true,false,false,21,558,true
+9208,"ASSOCIATE SALES - KALKASKA",,,true,true,true,false,10,906,false
+9902,9902,,,true,false,true,true,10,172,false
+11210,,,11210,true,false,true,false,0,479,true
+14013,,"*NORFOLK*",,true,true,true,true,4,965,false
+14089,,,14089,true,false,false,false,0,423,false
+16526,,"*CIA*",,true,true,true,true,61,831,true
+24128,24128,,,false,false,false,true,41,158,true
+30014,,,30014,false,true,false,true,0,900,true
+30067,,,30067,true,false,true,false,0,564,true
+30083,,,30083,false,false,false,true,0,901,true
+30137,30137,,,true,false,true,true,100,430,false
+30159,,"*Enterprise*",,true,false,true,false,28,451,false
+30208,,,30208,true,false,true,true,0,164,false
+30214,"Enterprise Customer",,,false,true,true,false,5,798,false
+30282,,"*GRP*",,false,false,true,false,53,72,false
+30304,,,30304,false,false,false,true,0,167,false
+30401,,,30401,false,true,false,false,0,245,false
+30485,,"*Enterprise*",,false,true,false,true,20,89,true
+30494,,,30494,false,false,false,false,0,718,false
+30523,30523,,,true,true,true,false,16,536,true
+30573,,"*Enterprise*",,false,true,false,false,50,338,false
+30639,,,30639,false,false,false,true,0,450,true
+30740,,"*Homes*",,true,false,false,false,84,924,false
+30821,30821,,,false,false,false,true,74,603,true
+30894,,"*Customer*",,false,false,false,true,38,306,true
+30960,,,30960,false,false,true,true,0,679,true
+31001,31001,,,true,false,false,false,25,68,false
+31072,31072,,,true,true,false,true,47,691,false
+31076,,,31076,true,false,false,false,0,554,true
+31092,31092,,,false,false,true,false,18,116,true
+31147,,,31147,false,true,false,true,0,80,true
+31215,,,31215,false,true,true,true,0,871,false
+31262,31262,,,false,false,false,false,26,505,true
+31271,31271,,,true,false,false,false,61,718,true
+31360,"Pasquinelli Co or Portrait Hom",,,false,false,false,false,88,688,true
+31425,,"*Homes*",,true,false,true,true,59,974,true
+31469,"Enterprise Customer",,,false,false,false,false,68,541,true
+31548,,"*Enterprise*",,true,false,true,true,83,1000,false
+31645,,"*Enterprise*",,false,false,false,true,19,1,true
+31686,,,31686,false,true,false,true,0,779,false
+31726,,,31726,false,false,false,false,0,597,false
+31792,,,31792,true,true,true,false,0,425,true
+31856,31856,,,false,false,false,true,89,67,true
+31873,,"*Customer*",,true,true,true,true,8,384,false
+31880,,"*WCI*",,false,true,true,false,17,834,true
+31904,,"*Customer*",,true,false,false,false,11,136,false
+31927,"Enterprise Customer",,,true,false,false,true,94,988,false
+31987,,,31987,false,false,false,false,0,227,true
+32059,,"*Enterprise*",,true,true,false,false,48,598,false
+32064,,,32064,true,false,true,false,0,748,true
+32155,,"*Customer*",,false,true,false,true,9,916,false
+32185,,"*Enterprise*",,true,false,true,true,81,713,true
+32210,32210,,,true,true,false,true,5,413,false
+32301,,"*Customer*",,false,false,false,true,86,370,false
+32391,,,32391,true,true,true,true,0,74,true
+32478,,"*Enterprise*",,true,false,true,true,7,223,false
+32552,,"*Enterprise*",,true,false,false,true,19,559,true
+32617,,,32617,true,false,false,true,0,952,false
+32704,,,32704,true,false,false,false,0,384,true
+32762,32762,,,true,false,true,false,63,881,true
+32774,,"*Customer*",,true,true,true,false,32,571,false
+32830,,,32830,true,false,true,false,0,721,false
+32915,,,32915,false,true,false,true,0,125,false
+32969,"Enterprise Customer",,,false,true,true,false,48,656,true
+32999,,,32999,false,true,true,true,0,184,false
+33067,33067,,,true,false,true,false,4,886,false
+33134,"Enterprise Customer",,,false,true,true,true,95,84,true
+33167,,,33167,false,true,true,true,0,308,true
+33203,,,33203,false,false,true,true,0,292,true
+33230,,"*Customer*",,true,false,false,false,17,263,false
+33300,,,33300,true,true,true,true,0,495,true
+33325,33325,,,false,false,true,true,23,190,false
+33357,,,33357,false,false,true,false,0,397,false
+33367,,"*Enterprise*",,false,true,false,true,27,276,false
+33464,"Enterprise Customer",,,false,true,true,false,66,758,false
+33498,"Enterprise Customer",,,false,true,true,true,38,681,true
+33502,,,33502,true,true,true,false,0,655,true
+33511,,"*Enterprise*",,true,false,false,false,94,123,false
+33603,,"*Enterprise*",,true,false,true,true,13,540,true
+33670,,"*Enterprise*",,true,false,false,false,42,895,false
+33751,,"*Enterprise*",,true,true,true,true,6,48,true
+33763,,"*Enterprise*",,true,false,true,false,59,184,true
+33809,,,33809,true,true,false,false,0,261,false
+33812,,"*Enterprise*",,true,true,true,true,14,327,true
+33878,,"*Customer*",,false,true,true,true,75,480,false
+33932,,,33932,false,false,true,true,0,72,false
+33969,,"*Customer*",,false,true,false,false,96,868,true
+33991,33991,,,false,true,false,true,8,144,false
+34005,"Enterprise Customer",,,true,true,false,false,99,691,true
+34104,,,34104,false,false,false,true,0,87,true
+34178,,,34178,true,true,true,false,0,670,false
+34215,,"*Customer*",,false,false,true,false,98,868,true
+34314,,,34314,true,false,false,false,0,584,true
+34320,34320,,,false,true,true,true,31,956,true
+34379,,"*Enterprise*",,false,true,false,true,41,62,false
+34470,,"*Enterprise*",,false,true,false,true,59,800,false
+34488,,"*Customer*",,true,false,false,true,39,331,true
+34531,,,34531,false,false,false,false,0,269,true
+34582,34582,,,true,false,true,false,83,191,false
+34636,,"*Enterprise*",,true,true,false,true,11,285,true
+34711,,,34711,false,false,false,false,0,57,true
+34730,34730,,,false,false,false,true,77,915,false
+34743,34743,,,false,true,true,false,64,976,true
+34761,,"*Customer*",,true,false,false,true,82,158,true
+34786,34786,,,true,true,false,false,94,943,false
+34836,,"*Enterprise*",,true,true,false,false,7,714,true
+34843,,"*Enterprise*",,false,true,true,false,52,403,false
+34866,34866,,,false,false,true,true,17,162,false
+34911,34911,,,false,false,true,true,42,200,true
+34970,"Enterprise Customer",,,false,true,true,false,86,428,false
+35045,,,35045,true,true,false,false,0,538,false
+35136,"Enterprise Customer",,,true,false,false,false,36,793,true
+35175,"Enterprise Customer",,,false,false,true,false,39,913,false
+35252,,,35252,true,true,false,true,0,80,false
+35281,,,35281,true,true,false,true,0,506,false
+35373,,"*Enterprise*",,true,false,true,false,62,845,true
+35422,,,35422,false,true,false,false,0,129,true
+35500,,,35500,false,true,true,true,0,895,true
+35523,35523,,,true,true,true,true,79,452,false
+35550,,"*Customer*",,true,true,true,true,6,660,true
+35641,,"*Customer*",,false,true,true,true,41,440,true
+35727,"Enterprise Customer",,,true,true,false,false,49,578,false
+35782,,"*Customer*",,true,false,false,true,51,692,false
+35797,"Enterprise Customer",,,true,false,false,true,23,848,false
+35800,,,35800,true,false,false,false,0,238,true
+35861,,,35861,false,false,false,false,0,354,true
+35946,,,35946,false,false,false,true,0,155,true
+36034,"Enterprise Customer",,,true,false,false,false,88,395,false
+36074,,"*Customer*",,true,false,true,false,71,197,true
+36108,"Enterprise Customer",,,false,true,false,true,83,953,false
+36190,,"*Enterprise*",,true,true,true,false,48,833,false
+36245,,"*Customer*",,true,false,true,true,40,924,true
+36263,,"*Customer*",,true,false,false,true,56,319,true
+36318,36318,,,true,true,false,true,87,456,true
+36377,,"*Customer*",,true,false,true,true,58,755,false
+36417,"Enterprise Customer",,,true,false,false,false,8,764,true
+36473,"Enterprise Customer",,,true,true,true,false,99,821,false
+36524,"Enterprise Customer",,,false,true,false,true,68,42,true
+36566,36566,,,true,false,true,false,25,165,true
+36608,,,36608,false,false,true,false,0,413,false
+36636,,"*Enterprise*",,false,false,true,true,91,458,true
+36657,,"*Enterprise*",,false,false,false,true,23,401,false
+36677,,,36677,true,false,true,false,0,836,true
+36730,,"*Customer*",,false,true,false,true,85,245,true
+36754,,,36754,false,false,false,false,0,887,false
+36844,"Enterprise Customer",,,false,true,false,false,6,624,false
+36895,,,36895,true,false,false,false,0,885,true
+36966,,,36966,true,false,false,true,0,937,true
+37060,"Enterprise Customer",,,false,true,false,true,6,534,true
+37090,,,37090,false,true,true,true,0,70,false
+37092,,,37092,false,true,true,true,0,492,true
+37142,,"*Enterprise*",,false,true,true,false,25,898,false
+37191,,"*Customer*",,false,false,false,true,71,861,true
+37278,37278,,,false,false,false,false,16,76,true
+37358,37358,,,true,true,true,false,38,947,true
+37371,,"*Customer*",,true,true,true,false,70,625,false
+37429,,"*Enterprise*",,true,false,true,true,70,930,true
+37514,,"*Enterprise*",,false,true,true,true,28,719,true
+37587,,"*Enterprise*",,true,false,false,true,52,149,true
+37679,"Enterprise Customer",,,false,false,false,false,24,448,true
+37706,"Enterprise Customer",,,false,false,false,false,78,367,true
+37762,,"*Customer*",,false,true,false,true,12,649,true
+37798,"Enterprise Customer",,,false,false,false,true,27,944,true
+37893,,,37893,true,false,true,true,0,204,false
+37907,37907,,,true,true,false,true,18,577,true
+37954,,"*Enterprise*",,true,true,true,false,31,203,true
+37977,,,37977,false,false,true,false,0,461,false
+37994,,"*Customer*",,true,true,true,true,84,370,false
+38056,,,38056,false,true,true,false,0,505,false
+38063,,"*Enterprise*",,false,false,false,false,43,35,false
+38088,"Enterprise Customer",,,false,true,false,false,65,492,false
+38120,,,38120,false,true,true,true,0,172,false
+38202,,"*Enterprise*",,false,false,true,false,18,446,true
+38205,,"*Enterprise*",,false,false,true,true,77,823,true
+38223,,"*Customer*",,false,false,true,true,5,650,false
+38316,"Enterprise Customer",,,false,true,true,false,6,225,false
+38355,,,38355,false,false,true,false,0,243,false
+38362,"Enterprise Customer",,,true,true,true,true,72,935,true
+38443,"Enterprise Customer",,,false,true,true,true,91,425,true
+38518,"Enterprise Customer",,,false,false,false,true,56,784,true
+38557,,"*Enterprise*",,true,true,true,false,93,910,false
+38656,"Enterprise Customer",,,true,false,false,false,86,322,true
+38704,,,38704,true,true,true,false,0,169,false
+38788,"Enterprise Customer",,,false,true,true,true,27,557,false
+38885,,,38885,false,false,true,false,0,807,true
+38902,,,38902,true,true,true,false,0,549,true
+38915,,"*Customer*",,true,false,false,false,88,594,false
+39016,39016,,,false,true,false,true,65,909,true
+39114,,"*Customer*",,true,true,true,true,61,830,true
+39133,,,39133,false,false,false,true,0,520,true
+39185,,"*Customer*",,false,true,true,false,69,391,false
+39223,,,39223,true,true,false,true,0,455,false
+39247,39247,,,false,true,false,true,23,848,true
+39332,,"*Enterprise*",,false,true,false,false,14,278,true
+39366,,"*Customer*",,true,true,true,false,41,225,true
+39412,,"*Customer*",,true,false,false,true,2,978,true
+39488,,,39488,true,true,false,true,0,930,true
+39572,,"*Enterprise*",,false,false,true,true,25,581,false
+39593,"Enterprise Customer",,,true,true,true,true,11,198,false
+39655,,,39655,false,false,true,false,0,746,false
+39748,,,39748,false,true,true,false,0,73,false
+39810,,"*Customer*",,false,false,true,false,48,174,true
+39837,,"*Customer*",,false,true,false,true,33,958,true
+39891,,,39891,true,false,false,false,0,55,false
+39907,,"*Enterprise*",,false,false,false,false,100,487,true
+39927,,,39927,false,true,false,true,0,773,false
+39933,,"*Enterprise*",,true,true,true,false,16,869,true
+40043,,,40043,false,false,true,false,0,830,false
+40091,,,40091,false,false,true,true,0,393,false
+40220,,,40220,true,true,false,false,0,580,false
+41246,,"*TIMBER*",,true,false,true,true,56,962,false
+44051,,,44051,false,true,false,false,0,597,true
+44321,,"*COD*",,true,false,true,true,67,793,true
+54103,"CIA - WINSTON-SALEM",,,true,true,true,true,20,700,true
+64036,,"*SALESCOSTADJ*",,false,true,true,false,75,972,true
+71422,71422,,,true,true,true,true,9,700,false
+76525,"CIA - CF BALTIMORE INSTALLED",,,true,true,true,false,28,4,false
+84009,84009,,,true,true,true,true,52,545,true
+84111,,,84111,false,false,false,true,0,318,true
+84168,,,84168,true,false,false,true,0,718,true
+91406,,,91406,false,true,true,false,0,855,true
+94007,,,94007,true,false,false,true,0,295,true
+94305,,,94305,false,true,false,true,0,21,true
+97601,,"*WILSON*",,true,false,true,true,24,89,true
+100107,,"*MFG*",,false,true,true,true,66,436,true
+100194,,,100194,false,false,false,true,0,727,true
+100207,,"*CARLSON*",,true,true,false,false,29,560,false
+100234,,"*OF*",,true,false,false,true,91,297,false
+100362,,"*WEATHER*",,false,false,false,false,46,434,false
+100379,"FOUNDATION FOR BEHAVIOR DEVEL",,,true,false,false,true,59,911,false
+100481,,"*BIO.*",,false,true,false,true,58,276,true
+100602,,"*HOME*",,false,false,false,false,8,262,false
+100710,100710,,,false,false,true,true,39,121,false
+100769,100769,,,false,false,false,true,19,826,false
+100881,100881,,,true,true,false,true,24,100,false
+100942,,"*PRENTICE*",,true,true,true,true,58,916,true
+101014,,"*RANDALL*",,false,false,true,false,43,340,false
+101131,"HAROLD E STANTON",,,false,false,false,true,97,106,true
+101292,"ALYQUIN CONSTRUCTION",,,false,true,false,false,85,826,false
+101566,"ANDERSON DESIGN CONST",,,true,false,false,true,33,477,false
+101817,"ANTEK CUSTOM BLDG/STONEGATE",,,true,false,true,true,5,338,false
+101839,101839,,,true,true,false,true,79,106,true
+102149,,,102149,true,false,true,true,0,696,true
+102534,,,102534,false,true,true,true,0,266,false
+102542,,,102542,true,true,false,false,0,368,false
+102600,,"*BARRETTA*",,true,false,true,false,66,524,false
+102900,,"*BEHMLANDER*",,false,false,false,true,5,988,true
+103524,"ALL POINTS CONSTRUCTION, INC.",,,true,true,false,false,63,45,true
+103610,,,103610,true,false,false,true,0,115,false
+103659,,"*BONNETT*",,false,false,false,false,40,528,true
+103780,,"*COLA*",,false,false,true,true,95,349,true
+103901,,,103901,false,true,false,true,0,494,true
+103973,103973,,,false,true,true,true,6,198,false
+103987,,"*OIL*",,false,true,false,false,46,666,true
+104077,104077,,,false,true,false,false,67,936,false
+104206,,,104206,true,false,false,true,0,357,false
+104291,,"*CCA*",,true,false,true,false,55,900,false
+104421,,,104421,true,true,true,true,0,860,true
+104526,,"*CHARMILLES*",,true,true,false,false,22,237,true
+104612,104612,,,true,true,false,true,66,691,true
+104758,,"*J*",,false,false,true,true,64,979,false
+105060,,"*SUPPLY*",,true,true,true,true,8,598,false
+105218,,,105218,true,true,true,true,0,862,true
+105266,"DALE CORNETET",,,true,false,false,true,59,94,true
+105340,,"*ALLIANCE*",,false,false,false,false,28,686,true
+105476,105476,,,false,true,false,false,58,414,true
+105660,105660,,,false,false,false,false,33,492,true
+105815,,"*FRANCIS*",,true,true,false,true,4,773,false
+105848,"GILBERT HOMES, INC.",,,false,false,true,true,75,827,false
+105978,,"*MARK*",,false,true,false,false,28,143,true
+106066,"PAUL DAVIS SYSTEMS OF W. MICH.",,,true,false,false,false,30,777,false
+106270,"JOHN M. GROTE",,,true,false,true,false,60,879,true
+106413,,"*BRUMBAUGH*",,true,false,false,true,3,279,false
+106748,,,106748,true,false,false,true,0,554,false
+106781,,"*CONST*",,true,false,false,false,6,385,true
+107045,,,107045,false,false,true,true,0,533,true
+107195,,"*&*",,false,false,false,true,100,727,true
+107320,"RUSSELL ECKERT",,,false,true,true,true,45,467,true
+107416,,"*JOHN*",,true,false,false,false,92,668,false
+107421,"WALLACE HOMES",,,false,false,false,true,30,349,true
+107689,,,107689,false,true,false,false,0,99,true
+107845,,,107845,true,false,true,false,0,482,true
+107900,107900,,,false,false,true,true,15,464,false
+108035,,"*RIVENDELL*",,false,false,false,false,24,306,false
+108202,"FILLION CONSTRUCTION",,,true,false,true,false,92,114,true
+108240,,"*REAL*",,true,false,true,false,69,475,true
+108420,,"*FREED*",,true,false,true,true,72,272,false
+108565,,"*IMPROVEMENT*",,false,false,false,true,6,475,false
+108833,,,108833,false,true,true,true,0,638,true
+108981,108981,,,true,true,false,false,58,205,false
+109073,"GRACE BUILDERS",,,false,true,false,false,22,436,false
+109251,,"*INC*",,false,true,true,true,60,23,false
+109343,109343,,,false,true,false,false,12,144,false
+109396,,,109396,false,false,false,false,0,496,true
+109612,109612,,,true,false,false,true,40,8,true
+109617,"CASPER HARBIN & DAVID HARBIN",,,true,true,true,false,92,331,true
+109718,109718,,,true,true,false,true,26,398,false
+109772,,,109772,true,true,true,true,0,209,true
+109899,,"*MELVIN*",,false,false,false,false,83,684,false
+110040,,,110040,false,false,true,false,0,718,true
+110115,,"*CONSTRUCTION*",,true,false,true,false,68,377,false
+110295,,"*HUNTING*",,false,true,false,false,63,754,true
+110593,,,110593,true,false,false,true,0,127,false
+110658,,,110658,true,false,true,false,0,84,false
+110898,,,110898,false,true,true,true,0,811,true
+110989,,"*JOHNSON*",,false,false,true,false,83,103,true
+111150,,"*INDUSTRIES,*",,false,true,false,false,70,374,false
+111216,,,111216,true,false,true,false,0,690,true
+111295,,,111295,true,true,true,true,0,865,true
+111453,"KEYSTONE DEVELOPMENT L L C",,,false,false,false,false,48,90,true
+111558,,,111558,false,true,true,false,0,174,true
+111711,111711,,,false,false,true,true,92,398,true
+111781,"LAKE CITY REDI-MIX",,,false,true,true,false,86,48,true
+111828,,"*LANG*",,false,false,false,false,85,711,true
+111949,,"*LEGENDS*",,false,true,false,false,76,381,true
+112108,"ROBERT LINTON BUILDER",,,true,true,true,false,57,405,false
+112116,112116,,,false,false,false,true,100,396,false
+112189,,"*LONG*",,false,false,false,false,72,527,true
+112293,"M J CONST & M PARLIAMENT",,,true,false,false,true,42,849,true
+112386,,"*CORP*",,true,false,true,false,71,829,false
+112455,,,112455,true,false,true,true,0,342,true
+112645,"MCPHERSON BLDRS",,,true,false,false,false,25,29,false
+112813,"MERRELL ROOFING",,,false,true,false,true,92,275,false
+112897,112897,,,true,false,true,true,50,686,false
+113007,"MIDLAND BUILDING CO",,,false,false,true,true,95,955,false
+113159,,"*TOWNSHIP*",,true,true,true,true,13,938,false
+113222,113222,,,true,false,true,false,52,413,false
+113365,,,113365,false,true,true,true,0,720,true
+113462,,"*&*",,true,true,false,false,62,550,true
+113473,,"*UNIVERSITY*",,true,true,true,true,55,331,true
+113642,113642,,,false,true,false,false,42,265,false
+113734,,"*PARADIGM*",,false,true,false,false,17,680,false
+113854,"PETERSON QUALITY HOME IMP",,,false,true,true,false,5,676,true
+113950,113950,,,false,true,false,false,57,443,false
+114106,114106,,,false,true,true,false,83,900,true
+114143,,,114143,false,false,true,true,0,384,true
+114151,"MASCO TECH TUBLAR PRODUCTS",,,true,false,true,false,53,356,false
+114187,,"*R.E.M.*",,false,true,false,true,59,169,true
+114304,,,114304,true,false,false,true,0,946,false
+114436,114436,,,true,false,false,true,61,697,false
+114558,,,114558,false,true,true,false,0,414,true
+114709,"SALVATION ARMY",,,true,false,true,false,14,504,false
+114773,,"*WAYNE*",,true,true,true,true,72,65,false
+114867,,"*DESIGN*",,false,false,true,false,53,808,true
+114936,114936,,,false,false,false,true,48,89,false
+115099,"SMITH HOME IMPROVMT",,,true,false,false,false,61,79,false
+115105,,"*S*",,false,true,false,true,97,117,true
+115148,,,115148,false,false,false,true,0,843,true
+115237,,,115237,true,true,false,true,0,772,false
+115347,,,115347,false,true,false,false,0,956,false
+115418,"SUNNYBROOK HOMES",,,false,false,true,false,45,428,false
+115436,"DOUGLAS SWEERS",,,true,false,true,false,50,838,true
+115545,"TAYLOR DOUG BLDR",,,false,true,true,true,100,537,true
+115649,115649,,,false,false,true,true,44,824,true
+115751,115751,,,false,true,false,true,37,127,true
+115842,,"*TURN-KEY*",,false,false,false,false,15,681,false
+115976,115976,,,true,true,false,true,87,170,false
+116219,116219,,,false,true,true,true,65,692,true
+116472,,"*BUILDING*",,false,false,false,false,43,291,true
+116494,,,116494,false,true,false,false,0,233,false
+116502,,,116502,false,true,false,false,0,432,true
+116534,,"*WALLS*",,true,true,true,true,100,108,false
+116670,,,116670,true,false,true,false,0,659,true
+116747,"WILLIAMS PLG & HTG",,,true,true,true,false,73,678,false
+116756,,"*CORP*",,true,false,true,true,70,943,false
+116825,,"*CORPORATION*",,false,false,true,true,100,864,true
+116909,116909,,,false,true,false,false,97,809,false
+116928,,,116928,true,false,true,true,0,49,true
+116951,,,116951,false,true,false,true,0,399,false
+117526,,,117526,true,false,true,false,0,26,false
+117569,,,117569,true,false,true,false,0,699,true
+117580,,"*LAANSMA*",,false,false,true,true,83,103,false
+117587,,,117587,true,false,true,false,0,601,false
+117594,"ADLER HOMES/FOREST PONDS",,,false,false,true,true,99,243,false
+117658,,"*CORP*",,false,true,false,false,89,704,true
+117717,,,117717,true,false,false,true,0,911,true
+117762,,"*A*",,true,false,true,true,80,835,false
+117770,,"*K*",,false,false,false,false,32,559,false
+117810,,,117810,true,true,false,false,0,292,false
+117851,,"*CO*",,true,true,true,false,88,148,false
+117867,,"*DEVELOPMENT*",,false,true,true,false,79,474,false
+117903,117903,,,false,false,true,false,21,518,true
+117926,,,117926,true,false,false,false,0,828,false
+118017,,"*ASPHALT*",,true,true,true,false,47,803,true
+118022,,"*BUILDING*",,false,true,false,true,26,624,false
+118047,118047,,,true,true,false,false,44,914,true
+118125,,,118125,true,false,false,true,0,378,true
+118145,118145,,,false,true,false,true,27,853,true
+118225,,"*CONSTRUCTION*",,true,false,false,false,37,643,true
+118310,,"*J*",,true,false,true,false,61,730,false
+118369,,"*FURNITURE*",,true,true,false,true,79,924,true
+118410,118410,,,true,true,true,true,23,37,false
+118423,"STEVEN TAIT",,,false,false,true,false,70,802,true
+118440,,,118440,false,false,false,true,0,550,true
+118488,,"*ENTERPRISES*",,true,false,false,false,13,202,true
+118571,,,118571,true,true,true,true,0,341,true
+118606,118606,,,true,true,true,false,3,908,true
+118686,118686,,,false,false,false,false,35,6,false
+118704,,,118704,true,false,true,false,0,451,true
+118797,,"*PHILOMENO*",,true,true,true,false,99,830,false
+118826,,,118826,false,false,true,true,0,315,false
+118850,118850,,,false,true,false,false,77,308,true
+118911,118911,,,true,true,false,false,46,5,false
+118989,,"*BYLER,*",,false,false,true,true,10,297,true
+119051,,,119051,true,true,false,true,0,96,true
+119109,"D & J BUILDERS",,,false,true,false,true,53,592,false
+119202,,"*EDIS*",,false,true,true,false,56,160,false
+119296,"STAN HOBBS*CAPE SHORES*",,,false,true,true,false,51,192,true
+119329,"J & J CUSTOM BUILDERS CORP",,,false,false,false,true,88,192,false
+119333,"JOHNSON ELECTRICAL CONST INC",,,true,true,true,true,24,126,true
+119340,,"*C*",,true,false,true,false,98,156,false
+119360,,"*S.*",,false,false,false,false,87,647,true
+119442,,"*C*",,true,true,false,false,78,420,false
+119456,119456,,,true,false,false,false,43,466,false
+119489,119489,,,false,true,true,true,9,384,false
+119512,,,119512,true,true,false,true,0,116,true
+119552,"CHARLES MUSSER*EXTRA WHEATLEY*",,,true,false,true,false,53,885,true
+119633,"J & B REYNOLDS*LOT 67 M.E.*",,,false,false,false,true,17,237,true
+119638,119638,,,false,false,true,true,48,713,true
+119662,,,119662,true,false,false,true,0,858,true
+119667,,,119667,false,false,true,false,0,35,false
+119676,"S & L CONTRACTORS *BB L16*",,,true,false,true,true,79,575,false
+119767,,,119767,false,false,false,false,0,140,true
+119865,,,119865,true,true,true,true,0,501,false
+119929,,,119929,false,false,true,false,0,362,false
+120798,,"*COUNTY*",,false,true,true,true,20,900,true
+160048,"DENNIS KIRCH CONSTRUCTION",,,true,false,false,true,57,350,false
+160060,,,160060,true,true,true,true,0,571,true
+160124,,,160124,false,true,false,true,0,736,true
+160188,,,160188,true,false,true,true,0,33,true
+160209,"VILLAGE OF COON VALLEY",,,true,true,true,true,46,473,false
+160241,,"*SENICAL*",,false,true,false,true,18,574,true
+160275,,,160275,false,true,false,true,0,347,false
+160314,"C & S ENTERPRISE",,,true,true,true,false,95,10,true
+160388,,"*SALVAGE*",,false,false,false,false,47,146,false
+160402,160402,,,true,true,true,false,49,818,false
+160417,,"*MARIE*",,true,true,true,true,43,473,false
+160454,160454,,,true,true,false,true,34,450,true
+160501,"TROY & KARA WASSELL",,,false,true,false,false,56,718,false
+160509,"DENNY SANDERS CONST. INC",,,true,true,false,true,49,41,true
+160519,,,160519,false,false,true,false,0,435,true
+160602,,"*SERVICES,*",,false,true,true,false,22,37,true
+160611,,"*BRANFORD,*",,false,true,true,false,45,807,true
+160664,,,160664,false,false,false,false,0,615,false
+160712,,,160712,false,false,true,true,0,339,false
+160749,,"*BONNELL*",,false,false,false,true,68,755,false
+160832,,,160832,true,true,false,false,0,220,false
+160841,160841,,,false,true,false,false,90,184,true
+160903,,,160903,true,true,true,false,0,409,true
+160979,"WINDELL JEFFERY & CHERYL",,,false,true,false,true,78,514,false
+161065,,,161065,true,true,true,false,0,227,false
+161141,,"*BIANCHETTI*",,true,false,false,true,79,867,true
+161175,"DALE CARLSON",,,true,false,true,true,30,669,false
+161244,,,161244,false,true,false,false,0,547,false
+161248,,,161248,false,false,true,true,0,636,true
+161344,,"*PROPERTIES*",,true,false,true,false,96,991,false
+161347,161347,,,true,true,true,false,26,700,true
+161408,"THACKER KENNETH & KIMBERLY",,,false,true,true,true,28,751,true
+161489,,,161489,false,true,true,false,0,557,false
+161491,,"*IMPROVEMENT*",,false,true,false,false,90,740,false
+161584,,,161584,true,true,false,false,0,866,true
+161675,,,161675,true,false,true,false,0,316,false
+161747,161747,,,true,true,false,false,65,386,false
+161813,"DALE MILLER",,,true,false,false,false,33,290,true
+161827,161827,,,false,true,true,false,47,466,true
+161853,,"*JAMES*",,false,false,false,true,40,188,true
+161944,"LARRY SMITH PLASTERING",,,false,false,false,true,73,69,true
+161961,,"*SCHOOLS*",,false,true,true,true,18,901,false
+162015,,,162015,false,true,false,false,0,675,true
+162084,162084,,,false,true,false,true,26,95,false
+162154,,,162154,true,false,false,false,0,410,false
+162225,,"*JONATHAN*",,false,true,true,true,2,843,false
+162288,,"*INC*",,false,true,true,false,21,49,false
+162302,,,162302,true,true,false,false,0,890,true
+162383,,"*D-CLEATER*",,false,true,true,false,49,655,false
+162463,"UNLIMITED HOME RESOURCES",,,true,false,false,true,59,490,true
+162506,,,162506,false,false,false,true,0,732,true
+162593,,,162593,false,true,false,true,0,648,false
+162635,162635,,,false,false,false,true,80,14,false
+162677,,"*INC*",,false,false,true,false,19,740,true
+162756,,"*S*",,false,false,false,false,15,103,false
+162792,,"*GIBSON*",,true,true,false,true,66,824,false
+162865,,,162865,false,false,false,false,0,308,true
+162964,,,162964,false,true,true,false,0,996,true
+163008,,,163008,true,false,true,false,0,24,false
+163074,"CUSTOM CLOSETS & INTERIORS",,,false,false,true,false,100,876,true
+163133,,,163133,true,true,true,false,0,442,false
+163182,"YVONNE MCDONALD",,,false,true,false,false,44,293,true
+163187,,"*LP*",,false,false,true,false,33,406,false
+163214,,,163214,false,false,false,false,0,569,false
+163289,,"*JAMES*",,false,false,true,false,74,956,false
+163387,163387,,,true,false,false,false,90,41,true
+163457,,,163457,true,true,false,true,0,434,false
+163515,,"*INC*",,true,false,false,false,60,356,false
+163596,,,163596,true,false,true,true,0,919,true
+163641,,"*MAPLE*",,false,true,true,true,7,846,true
+163704,,"*CREEK*",,true,true,false,false,21,94,false
+163803,"BURNS CONSTRUCTION",,,true,false,false,true,29,391,false
+163859,"TRACEY RICHARDSON",,,false,true,true,false,20,632,true
+163897,,"*IMPROVEMENTS*",,false,false,false,true,46,815,false
+163913,163913,,,true,true,true,true,33,709,true
+163998,,,163998,true,true,true,true,0,266,true
+164094,,,164094,true,true,false,true,0,832,false
+164123,,"*COFFELL*",,true,true,true,true,21,37,true
+164175,,"*STEVENS-HENAGER*",,false,true,true,true,33,147,false
+164260,,"*INC*",,false,true,true,true,55,739,true
+164289,"GAYLORD A. PICARD",,,false,false,false,true,3,250,true
+164366,,"*DUNN*",,false,false,false,true,7,873,false
+164410,,"*D*",,true,false,false,true,45,644,true
+164500,"RICHARD & TRUDY THOMSON",,,false,true,false,true,37,53,false
+164549,164549,,,false,false,false,true,66,523,true
+164609,164609,,,false,false,false,true,93,618,false
+164667,,,164667,true,true,true,true,0,653,false
+164710,,"*DEVELOPMENT*",,false,true,true,false,25,815,false
+164720,,"*INTERIORS,*",,true,true,true,false,45,613,true
+164814,,"*ROSENKRANCE*",,true,true,false,false,93,388,false
+164818,,,164818,false,true,false,true,0,444,false
+164907,164907,,,true,true,false,true,15,752,true
+164999,,"*M.*",,true,false,false,false,78,260,true
+165066,,"*MGMT.INC.*",,true,true,false,true,77,463,true
+165120,"JEFF H ROSENHAN",,,true,true,true,true,40,677,false
+165186,"NEW ENGLAND CLASSIC HOMES",,,false,true,true,false,54,108,false
+165271,,"*COMPANY*",,false,true,true,true,9,202,true
+165318,,"*BUILDER*",,true,true,false,true,53,635,true
+165402,,"*ROY*",,true,false,false,true,15,617,false
+165411,"DECOR GALLERY INC.",,,true,false,true,false,50,943,true
+165474,,"*&*",,true,false,false,true,93,716,false
+165485,"BOYD & MARY POISEL",,,true,false,true,true,61,481,true
+165497,,,165497,false,true,true,false,0,916,true
+165578,,,165578,false,false,true,false,0,893,false
+165656,,,165656,false,false,false,false,0,802,true
+165685,,"*SERVICES*",,false,false,true,true,51,838,true
+165743,,,165743,true,false,true,true,0,228,false
+165844,,"*ASBACH*",,false,true,false,true,49,930,true
+165897,"COMPLETE CONSTRUCTION CO INC",,,true,false,true,false,83,674,true
+165917,165917,,,true,true,true,false,39,329,false
+165965,,,165965,true,false,false,true,0,557,false
+166020,,"*SOUTH*",,true,false,false,true,79,643,false
+166106,166106,,,true,false,true,false,5,889,true
+166118,,,166118,false,false,true,false,0,251,false
+166169,,"*HOMES,*",,true,false,false,true,78,568,true
+166266,"TROLLEY HOUSE LLC",,,false,false,true,true,13,144,false
+166336,,,166336,true,false,false,false,0,388,true
+166432,,,166432,false,true,true,false,0,777,true
+166511,,,166511,false,true,true,false,0,39,false
+166609,,"*LOWE'S*",,false,false,false,false,52,700,false
+166674,,,166674,false,false,false,true,0,248,true
+166706,,,166706,false,true,false,true,0,509,true
+166709,,"*INVESTMENTS*",,false,true,true,true,7,727,false
+166726,,"*DILLMAN*",,true,false,false,true,30,27,true
+166764,,,166764,true,true,true,true,0,45,false
+166788,,"*SHANE*",,false,false,false,false,94,230,false
+166799,"ELLIOTT CONSTRUCTION INC",,,false,false,false,true,23,629,true
+166803,166803,,,true,false,false,true,90,722,true
+166868,,"*NEFF*",,false,false,true,false,58,804,true
+166917,,,166917,false,true,false,false,0,768,false
+167004,"TADIAN HOMES, LLC A DELAWARE",,,false,false,false,false,82,766,true
+167008,,"*&*",,false,false,false,false,94,89,false
+167103,,,167103,false,true,true,true,0,706,false
+167141,,"*PROPERTIES*",,true,true,false,true,8,474,false
+167199,,,167199,true,false,true,true,0,967,false
+167267,167267,,,true,false,true,true,66,91,false
+167328,,,167328,true,true,false,true,0,617,false
+167359,,"*DEANNA*",,false,false,false,true,22,616,true
+167446,167446,,,false,true,false,true,59,645,false
+167467,"WESTRING CONSTRUCTION",,,true,false,false,true,40,170,true
+167489,,,167489,true,true,false,false,0,922,true
+167582,,"*CO.*",,true,false,false,true,33,335,true
+167671,,,167671,false,false,false,false,0,277,false
+167707,,"*DON*",,true,true,false,true,32,669,true
+167712,167712,,,false,false,false,true,7,296,false
+167729,,"*CONSTRUCTION*",,false,true,true,true,61,698,false
+167765,,"*&*",,false,true,true,false,44,315,false
+167831,,"*HOSPITALS*",,true,false,true,true,73,825,true
+167872,,,167872,false,true,false,true,0,127,true
+167899,,,167899,false,true,false,false,0,724,false
+167971,"EVERWOOD HOMES",,,false,true,true,true,28,122,false
+167997,,"*COD*",,false,true,false,false,43,459,true
+168005,,,168005,false,true,false,false,0,72,false
+168087,,,168087,false,true,true,true,0,578,true
+168112,,"*BURN*",,false,false,false,true,21,321,true
+168211,,"*GROUP*",,false,true,true,false,51,549,false
+168254,,,168254,true,true,true,false,0,453,true
+168288,168288,,,false,true,true,true,23,598,false
+168387,168387,,,false,false,false,true,51,714,true
+168438,,,168438,true,true,false,true,0,621,true
+168441,168441,,,false,false,false,false,37,913,false
+168450,,"*TRUST*",,true,false,true,true,95,256,true
+168508,,"*BRADY*",,false,false,true,true,26,740,false
+168521,,,168521,false,true,false,false,0,427,true
+168544,168544,,,false,true,false,true,24,614,true
+168584,168584,,,false,false,true,false,24,179,false
+168643,,"*HAUSWIRTH*",,true,false,false,false,10,810,false
+168736,,,168736,true,false,true,true,0,53,false
+168829,,,168829,true,false,true,true,0,283,true
+168915,,"*HOMES,*",,false,true,false,false,87,800,false
+168941,"NORTH RIDGE HOMES INC",,,false,true,false,true,74,813,false
+168983,"TRACY L BORICH",,,true,false,false,false,100,467,false
+169016,,,169016,true,true,false,false,0,533,true
+169108,,,169108,false,true,false,true,0,257,true
+169172,169172,,,true,true,false,false,35,761,false
+169207,,"*PAINT*",,false,true,false,false,51,71,false
+169215,"FRANK & MARK ROACH",,,false,false,false,true,82,806,false
+169270,,"*BUBAR,*",,true,true,false,false,23,761,false
+169306,,"*REMODELING*",,true,true,true,true,100,45,true
+169337,169337,,,true,true,true,true,47,550,false
+169396,,"*CLINT*",,true,true,false,true,4,462,true
+169432,169432,,,true,false,true,false,66,57,true
+169517,"LAURA M HOFFMAN",,,false,true,false,true,10,852,true
+169557,169557,,,false,true,false,true,71,763,true
+169629,,"*CROY*",,true,false,true,true,70,531,true
+169722,,,169722,false,true,false,true,0,748,false
+169763,169763,,,false,true,true,false,16,352,true
+169790,,,169790,false,true,true,false,0,602,true
+169801,"SONNY JUSTICE BUILDER INC",,,true,false,false,true,69,775,true
+169889,,,169889,false,true,false,false,0,448,true
+169975,,,169975,false,true,true,true,0,137,true
+170062,"HUBBLE HOMES INC",,,false,true,false,true,50,444,false
+170128,,"*MARY*",,false,true,false,false,39,864,false
+170213,170213,,,false,true,true,false,26,398,true
+170224,,"*CUSTOM*",,false,true,true,false,93,437,false
+170238,,"*CONERSTONE*",,true,false,false,true,47,672,false
+170273,"LAZARUS INVESTMENTS OF",,,false,true,true,true,79,467,true
+170373,,,170373,true,true,true,true,0,793,false
+170454,,,170454,true,false,false,true,0,346,true
+170490,"STEPHEN F & BARBARA G FRITZ",,,false,false,false,false,57,734,true
+170551,,,170551,true,false,false,false,0,690,false
+170636,,"*SOLUTIONS,INC.*",,true,true,true,true,28,269,false
+170693,,"*HUGHES*",,true,false,false,false,58,272,false
+170769,170769,,,true,true,false,false,51,762,false
+170785,,,170785,false,true,true,false,0,907,false
+170868,,,170868,false,true,false,true,0,780,true
+170886,,"*LLC*",,true,false,true,true,8,169,true
+170973,170973,,,false,false,false,false,83,732,true
+171017,,"*&*",,true,true,false,true,53,968,true
+171038,171038,,,false,false,false,true,36,727,true
+171116,,"*FRITZ*",,false,true,false,false,82,600,false
+171180,,,171180,false,false,false,true,0,511,false
+171219,171219,,,true,true,false,true,77,338,false
+171240,,"*MKICHYAN*",,true,true,true,true,46,19,true
+171317,171317,,,false,false,true,false,60,27,true
+171325,171325,,,false,false,true,true,61,879,true
+171365,,"*R.C.*",,true,false,false,true,11,910,true
+171369,"SCHUMACHER HOMES, INC.",,,true,false,false,false,45,255,true
+171451,"JEAN KORFANTA $",,,false,true,false,false,38,827,false
+171497,,"*SYSTEMS,*",,true,true,true,true,71,882,true
+171544,,,171544,true,false,true,true,0,262,false
+171617,,"*LLC*",,false,true,false,false,3,567,false
+171656,,"*DUCKWITZ*",,true,true,false,true,10,379,false
+171685,"MATTHEW D OAKES",,,true,false,false,false,93,584,false
+171731,,,171731,false,false,false,true,0,284,true
+171787,,"*SPECIALS*",,true,true,true,false,71,432,true
+171832,,,171832,true,true,true,true,0,359,true
+171904,,,171904,false,true,true,false,0,558,true
+171974,,"*COMPONENTS*",,false,true,true,false,33,286,true
+172029,,"*INC.*",,false,true,true,false,77,481,true
+172128,,"*TAMMY*",,false,true,false,false,20,587,false
+172162,,"*RECOVERY*",,true,true,false,false,59,784,true
+172246,172246,,,false,true,false,false,53,162,true
+172294,,,172294,true,false,false,false,0,925,true
+172349,172349,,,true,true,true,false,51,891,true
+172412,"KEVIN M. & SHANNON HAZEN",,,false,true,true,true,21,530,true
+172494,,,172494,true,true,false,false,0,489,false
+172594,,,172594,true,false,true,false,0,796,false
+172610,,"*$*",,false,false,false,true,1,505,true
+172693,,"*PHILIPOOM*",,false,true,true,true,61,38,true
+172766,,,172766,false,false,true,false,0,335,true
+172789,,"*HOSS*",,true,true,false,true,67,159,false
+172878,,,172878,true,false,true,false,0,359,true
+172912,,"*RANDY*",,true,false,true,false,47,793,true
+172992,,,172992,true,true,false,true,0,876,true
+173082,"GABOR & ALLEN INC/FLYART",,,false,false,false,false,11,114,true
+173170,173170,,,false,true,false,false,89,152,true
+173251,,,173251,true,true,false,true,0,595,false
+173297,173297,,,false,false,false,false,59,675,true
+173329,,"*CORP.*",,false,false,false,true,97,222,true
+173423,,,173423,true,false,true,false,0,57,true
+173483,,"*TRADITIONAL*",,false,true,true,false,74,850,true
+173494,,,173494,true,true,true,false,0,448,false
+173592,"JAMES D FISHER",,,false,false,true,true,71,741,true
+173610,173610,,,true,true,true,true,96,654,false
+173702,173702,,,false,false,true,true,28,915,false
+173785,,,173785,true,false,false,false,0,352,false
+173871,,,173871,true,true,false,true,0,689,true
+173902,173902,,,false,false,true,true,9,836,true
+173935,,"*LONG*",,true,true,true,false,11,978,true
+173990,,"*OGDEN*",,true,false,true,true,9,105,false
+174051,,,174051,true,true,true,true,0,332,true
+174131,,"*ELAINE*",,true,true,true,true,30,66,true
+174199,,"*GHAZAR*",,true,true,false,false,33,303,false
+174296,,,174296,true,false,true,false,0,529,true
+174316,174316,,,true,true,true,false,87,473,false
+174395,,"*INC.*",,true,false,false,false,55,267,true
+174434,"LEON SHAHOIAN $",,,true,false,true,true,70,671,true
+174493,,,174493,false,true,false,false,0,566,false
+174548,174548,,,true,true,false,true,72,333,false
+174631,,,174631,false,false,false,false,0,111,true
+174652,,"*HERB*",,false,false,false,true,73,866,false
+174752,,,174752,true,false,true,false,0,525,false
+174759,174759,,,true,true,false,true,22,489,true
+174782,,,174782,true,true,true,false,0,123,false
+174866,,"*RENEE*",,false,true,true,false,40,264,true
+174909,174909,,,false,false,false,false,61,223,true
+174991,,,174991,true,false,false,true,0,551,true
+175053,,"*THOMPSON*",,true,true,false,false,82,807,true
+175146,,"*AMERICA*",,true,true,false,true,84,633,false
+175172,175172,,,false,false,false,false,18,5,true
+175197,,"*INC.*",,false,true,false,true,84,813,true
+175213,,,175213,false,false,false,true,0,24,false
+175267,,,175267,true,false,false,true,0,516,true
+175364,175364,,,false,false,false,true,33,789,false
+175428,175428,,,true,true,false,false,45,227,false
+175455,,"*MCRAE*",,true,true,false,false,68,960,false
+175511,,"*C*",,false,true,true,false,25,569,false
+175554,,"*CMD*",,false,false,true,true,82,127,false
+175571,,,175571,true,false,false,false,0,539,false
+175662,175662,,,true,true,true,true,3,475,true
+175702,175702,,,true,true,true,false,14,89,true
+175716,"CMNE CONSTRUCTION, LLC",,,false,true,true,false,65,411,true
+175725,,"*CARL*",,true,true,true,true,23,223,false
+175758,,"*$$$*",,true,true,true,true,26,59,true
+175782,,"*KOURY*",,false,false,true,true,73,828,true
+175814,,"*TILE*",,true,false,false,true,42,735,false
+175876,,"*$$$*",,false,false,false,false,15,6,false
+175939,,,175939,true,true,false,true,0,747,false
+175952,,,175952,false,true,false,true,0,238,true
+175966,175966,,,false,false,false,false,57,457,true
+175985,,"*INC.*",,false,true,false,true,68,226,false
+175991,,"*ANNA*",,true,true,true,true,24,353,true
+176057,176057,,,true,false,true,false,31,145,true
+176072,,"*GROUP*",,false,false,true,false,51,298,true
+176114,"MIKE SKYSON  $$$",,,false,true,false,true,25,326,true
+176180,,"*INC*",,true,false,true,false,65,614,true
+176250,,,176250,false,false,false,false,0,640,true
+176291,,"*SAKOTA*",,true,false,false,true,67,200,true
+176342,,,176342,false,true,false,true,0,846,true
+176362,,"*$$$*",,false,true,true,false,91,810,true
+176445,,"*BAKER*",,true,true,true,true,68,623,true
+176500,"ELAINE HONEY",,,false,true,false,false,15,480,true
+176530,,,176530,true,true,true,true,0,168,false
+176548,,,176548,false,false,false,false,0,359,false
+176574,,"*DELAGRANGE*",,true,false,true,true,35,757,true
+176654,176654,,,true,false,true,false,80,465,true
+176667,"ROCKY MOUNTAIN CONTRACTORS LLC",,,true,false,false,true,57,257,true
+176732,,"*ACCENT*",,true,true,true,false,23,103,false
+176789,176789,,,false,false,true,false,43,957,false
+176843,,"*VAN*",,false,true,true,true,79,19,true
+176898,176898,,,false,false,true,false,1,112,true
+176910,176910,,,true,true,true,false,27,396,false
+176985,,"*CONSTRUCTION*",,true,false,true,false,40,517,true
+177010,177010,,,true,false,false,false,85,247,false
+177024,"ELKHORN CONSTRUCTION",,,false,true,true,false,84,361,false
+177113,,,177113,false,true,true,true,0,725,true
+177137,,,177137,false,true,false,false,0,105,true
+177156,,"*$$*",,false,true,false,true,17,28,false
+177235,,"*MLR*",,true,false,false,false,46,464,false
+177320,,,177320,true,false,true,true,0,60,true
+177387,,"*MOULDING*",,true,true,false,false,93,285,false
+177421,,,177421,true,false,true,true,0,351,false
+177471,,,177471,false,true,true,false,0,944,false
+177518,,"*PHILLIP*",,false,true,false,true,58,349,false
+177570,,"*PALLESEN*",,true,false,true,true,91,283,false
+177622,177622,,,false,false,false,false,72,352,false
+177702,,"*JOHN*",,true,true,true,true,97,767,true
+177720,,,177720,false,false,false,false,0,506,false
+177813,177813,,,true,false,false,false,29,832,true
+177873,,,177873,false,true,true,true,0,684,true
+177950,,,177950,true,true,false,false,0,345,false
+177960,,,177960,true,true,true,false,0,59,false
+178008,,"*RYAN*",,false,false,true,false,83,682,true
+178012,,"*HOMES*",,false,true,false,false,95,732,false
+178070,,"*ORTEGA*",,true,true,true,false,75,336,false
+178118,,"*WARREN'S*",,true,true,true,false,54,201,true
+178144,"CHARLIE MCANDREW$$",,,false,true,true,true,76,816,true
+178165,178165,,,false,true,false,true,21,907,false
+178240,,"*PETERSON*",,true,true,true,true,7,904,true
+178252,,,178252,false,false,false,true,0,794,false
+178303,178303,,,false,false,true,true,36,800,true
+178377,,"*SLATE*",,false,false,true,true,52,83,true
+178449,,,178449,false,true,false,true,0,423,true
+178526,,,178526,false,false,true,true,0,600,false
+178596,"CRAWFORD BUSINESS SYSTEMS $$$",,,true,false,false,true,12,661,false
+178672,,"*TOP*",,true,false,true,true,67,943,true
+178706,178706,,,false,false,false,false,61,782,true
+178718,,,178718,false,false,true,true,0,486,false
+178764,,,178764,true,false,true,true,0,562,true
+178802,178802,,,false,true,false,false,5,316,false
+178870,,"*CONTRACTOR,*",,false,true,true,false,53,518,true
+178908,,"*&*",,true,false,false,true,90,671,false
+178967,,"*TRAVIS*",,false,false,false,false,100,457,true
+178988,,"*INC.*",,false,false,false,false,82,626,true
+179054,"AMBER WADE $$$",,,false,true,false,false,67,410,true
+179141,,"*BUILDING*",,false,true,true,true,37,296,false
+179178,179178,,,false,false,false,true,42,903,false
+179254,179254,,,true,true,false,false,74,411,true
+179348,179348,,,true,true,true,false,20,330,true
+179449,,,179449,false,false,false,true,0,917,true
+179490,"JOSE CAMPOS $$$",,,true,false,true,false,61,937,false
+179579,,,179579,false,false,true,false,0,737,false
+179621,,,179621,true,true,false,false,0,928,true
+179676,,"*&*",,false,true,true,true,77,718,false
+179746,,,179746,true,false,true,false,0,555,false
+179794,,"*DEVELOPMENT*",,true,true,true,false,24,454,true
+179836,,"*CONSTRUCTION*",,true,false,true,false,36,26,false
+179855,,"*MEYER*",,true,false,true,true,87,129,false
+179870,,"*&*",,false,true,true,true,47,12,true
+179923,179923,,,false,true,false,false,92,406,true
+179980,,,179980,true,true,true,false,0,984,true
+180021,,,180021,false,true,true,false,0,961,false
+180079,,"*CASCTOLI*",,false,false,true,false,75,625,true
+180097,,,180097,false,true,false,false,0,220,false
+180149,,,180149,true,false,false,false,0,127,false
+180157,,"*DIRK*",,false,true,false,false,42,663,true
+180197,,"**",,false,false,false,true,34,462,false
+180266,,"*HOMES*",,true,true,false,true,71,150,true
+180308,,"*STUCCO*",,true,true,true,false,98,67,true
+180329,,,180329,true,false,true,false,0,958,false
+180393,,,180393,true,true,false,false,0,463,true
+180400,,"*BLAHA*",,false,true,false,false,79,400,true
+180411,"OLMSTED PARK DEVELOPMENT, LLC",,,false,true,false,true,59,885,false
+180432,,,180432,false,true,false,false,0,754,true
+180457,,,180457,false,true,true,false,0,75,false
+180492,,"*INC*",,true,false,false,false,45,881,false
+180529,,"*JEAN*",,false,true,false,false,51,821,false
+180575,,,180575,true,false,true,false,0,376,true
+180580,,,180580,true,true,true,false,0,662,true
+180586,,,180586,false,true,false,false,0,870,true
+180603,,"*CONSTRUCTION*",,false,false,true,false,62,582,false
+180681,,"*O'BERRY*",,false,false,false,false,89,684,false
+180768,,"*MAGNOLIA*",,true,false,false,true,26,927,false
+180782,,,180782,true,true,true,true,0,891,true
+180877,,"*$$*",,true,true,true,false,27,263,false
+180892,,"*DECORATING/REMODELIN*",,true,true,true,false,91,163,true
+180922,,"*INC*",,true,true,false,false,34,653,false
+180932,,,180932,true,true,true,true,0,510,true
+180954,"DAVID MICSKY CONSTRUCTION LLC",,,true,true,true,false,97,435,false
+180957,,"*JAMES*",,false,false,true,false,27,522,false
+180979,,"*MDP*",,true,true,false,false,30,196,false
+181030,,"*CONSTRUCTION*",,false,true,false,true,90,989,true
+181043,,,181043,true,false,false,false,0,582,true
+181057,,"*KURT*",,true,false,true,true,89,651,true
+181097,,"*AMERICAN*",,false,true,false,false,23,261,true
+181187,,"*DCON*",,true,false,false,true,68,280,true
+181272,,,181272,true,false,true,false,0,576,false
+181352,181352,,,false,false,false,true,4,137,true
+181371,,,181371,false,false,false,false,0,924,true
+181420,,,181420,true,false,true,false,0,992,true
+181464,,,181464,false,false,true,true,0,340,false
+181480,,"*SARKASYAN$$$*",,false,false,false,false,55,445,true
+181495,,,181495,false,true,false,false,0,129,false
+181536,,,181536,false,false,false,true,0,124,true
+181606,,,181606,false,false,false,false,0,334,false
+181682,,,181682,true,true,true,true,0,346,false
+181771,,,181771,true,true,false,true,0,84,false
+181869,,,181869,false,false,false,true,0,860,true
+181944,,"*INC*",,false,false,true,true,96,754,true
+182011,,,182011,true,false,true,true,0,795,false
+182018,,,182018,true,false,true,true,0,182,false
+182093,"SCOTT MURRAY",,,false,true,false,true,15,513,true
+182178,,,182178,true,true,true,false,0,982,false
+182192,,"*TILTON*",,true,true,true,false,63,5,true
+182272,,"*KJH*",,false,false,true,true,51,811,false
+182325,182325,,,false,true,true,false,33,228,true
+182336,182336,,,true,false,false,false,16,919,false
+182428,,,182428,false,false,false,true,0,370,true
+182525,"MARK TATRO",,,true,true,true,true,9,610,true
+182540,"RAY HINTON JR",,,true,true,false,false,100,753,true
+182624,,,182624,true,true,false,true,0,398,false
+182693,,,182693,false,true,true,false,0,611,true
+182714,,,182714,false,true,true,false,0,259,true
+182767,,"*LAPORTE*",,false,true,false,false,62,717,true
+182821,"PAT MC GONIGLE $$$",,,true,false,true,false,54,258,true
+182884,,,182884,true,false,true,true,0,581,true
+182897,,,182897,true,false,false,false,0,429,true
+182963,,"*B*",,true,false,true,true,79,301,true
+183043,183043,,,false,false,true,true,18,921,true
+183139,,,183139,false,true,true,true,0,654,true
+183212,"EXQUISITE HOMES, INC.",,,true,false,false,true,25,877,true
+183267,,"*BELL*",,false,true,true,false,67,775,true
+183368,,"*INC*",,false,true,true,true,46,504,false
+183464,"DOLCE DEVELOPMENT AND",,,true,false,false,true,11,57,false
+183507,,,183507,true,true,false,true,0,319,true
+183525,,,183525,true,false,true,false,0,520,true
+183591,183591,,,true,true,false,true,1,307,false
+183652,"MESSINA INC, RJ",,,true,true,false,false,46,673,false
+183668,,,183668,true,true,false,true,0,793,false
+183741,"GUY JARDINE",,,true,true,true,true,76,465,true
+183744,,"*DUKE*",,false,true,true,false,97,93,false
+183814,,,183814,true,true,false,false,0,853,false
+183910,"HAMPTON CUSTOM BUILDERS INC",,,true,false,true,false,6,369,false
+184010,,,184010,true,false,true,true,0,411,true
+184061,,,184061,true,false,false,false,0,505,true
+184156,,,184156,true,true,false,true,0,109,true
+184251,,,184251,false,true,false,false,0,649,false
+184338,,,184338,true,false,false,false,0,561,false
+184415,,,184415,false,false,true,true,0,859,true
+184446,,,184446,true,false,false,true,0,701,true
+184460,184460,,,false,true,false,true,83,849,true
+184487,,,184487,true,true,true,true,0,429,true
+184542,,"*WELLS*",,true,true,true,true,73,947,true
+184608,,"*&*",,true,true,true,true,52,688,false
+184677,,,184677,true,true,false,false,0,26,true
+184680,"ROBERT L PENDER",,,false,true,false,true,39,356,false
+184685,"WOODMAN CONST$$",,,true,false,true,true,31,985,false
+184736,,,184736,false,false,false,true,0,772,false
+184815,,,184815,false,true,true,false,0,588,false
+184850,,"*LLC*",,false,true,false,true,49,791,true
+184920,,"*INC*",,false,true,false,false,2,933,false
+184952,,,184952,false,true,false,true,0,43,false
+184959,,,184959,true,true,false,true,0,204,false
+185031,,"*ENTERPRISES*",,false,false,false,false,79,361,true
+185069,185069,,,true,false,false,false,85,769,false
+185144,"PARAMOUNT CUSTOM BUILD$$$",,,true,true,false,true,42,722,false
+185206,185206,,,false,false,false,false,9,472,true
+185249,,"*STEVE*",,true,true,true,true,13,609,true
+185331,,"*construction$$*",,false,false,true,false,56,11,false
+185375,,"*&*",,true,false,false,true,22,69,true
+185392,,"*MIKE*",,true,false,true,false,18,754,true
+185470,"C.J. BAILEY MASONRY CO.",,,true,true,false,false,75,261,true
+185540,,,185540,true,true,false,true,0,455,false
+185593,,"*$$$*",,true,false,true,true,11,613,false
+185623,,"*CONNELLY*",,false,true,true,false,73,351,false
+185650,,"*JASON*",,true,false,true,false,65,700,false
+185732,,,185732,true,true,false,true,0,506,false
+185787,"THE DRYWALL PLACE",,,true,true,false,true,17,860,true
+185850,185850,,,false,true,false,false,60,180,true
+185862,,"*DEVELOPMENT*",,true,true,false,true,100,742,false
+185948,,,185948,true,true,false,false,0,882,true
+185974,,"*QUOTES*",,true,false,true,true,20,473,true
+185984,,"**",,false,true,true,false,50,836,true
+186081,"HUNTINGTON BEACH STATE PARK",,,true,true,true,true,47,108,false
+186098,,,186098,false,true,false,false,0,498,true
+186197,"ORANGE RIVER CONSTRUCTION",,,false,true,true,false,78,757,false
+186229,,,186229,false,false,false,true,0,222,true
+186317,"DETTLING ENTERPRISES INC",,,false,false,true,true,66,608,false
+186327,,"*CO*",,false,true,true,true,7,195,true
+186386,,"*$$*",,true,true,true,true,36,237,false
+186397,186397,,,false,true,false,false,38,438,false
+186423,,,186423,true,false,false,true,0,308,true
+186502,,"*TBJ*",,true,false,true,false,96,660,false
+186505,,"*$$$*",,true,false,true,true,13,735,false
+186533,"ALEXIS GEVORGIAN",,,true,false,false,false,17,727,true
+186564,"MEGAN & JOHN DANGERFIELD",,,false,false,true,false,27,101,true
+186601,,"*THELIA*",,true,true,true,true,74,287,false
+186650,,,186650,true,false,false,false,0,696,false
+186712,,,186712,false,false,false,false,0,750,false
+186812,,"*DELZER*",,true,false,false,true,29,302,true
+186851,,,186851,true,false,false,true,0,143,true
+186874,,,186874,false,true,false,false,0,729,true
+186918,,"*G*",,false,true,false,true,29,386,false
+186974,,,186974,false,false,true,false,0,251,false
+186977,,"*FERNANDO*",,false,true,false,false,43,194,false
+187038,,,187038,false,false,false,true,0,955,true
+187129,,"*JONATHAN*",,true,false,true,true,88,186,false
+187160,187160,,,true,false,true,true,43,62,true
+187257,,,187257,true,true,false,false,0,350,true
+187296,,"*HARDMAN$$$$*",,true,false,false,true,92,467,false
+187322,,,187322,false,true,true,true,0,823,true
+187334,,"*DAVID*",,false,false,false,false,83,62,true
+187419,,"*WOODS*",,false,false,true,false,56,772,false
+187501,"CHAD A HANSON",,,false,true,false,false,18,883,false
+187507,"BONACIO CONSTRUCTION INC",,,true,false,true,true,63,354,true
+187578,,,187578,true,true,true,false,0,142,false
+187642,,,187642,false,true,false,true,0,69,false
+187724,,,187724,false,false,true,false,0,165,false
+187747,"NANTMEAL HOLDINGS LP",,,false,true,true,false,51,446,false
+187828,,,187828,true,true,true,false,0,432,true
+187867,,"*JOHN*",,true,true,false,false,8,806,false
+187894,,,187894,false,false,true,false,0,805,false
+187969,,"*POWERS,*",,true,true,false,false,43,34,false
+187999,187999,,,false,true,true,true,74,750,true
+188094,,"*CORP.*",,false,true,false,true,71,341,false
+188177,,,188177,true,false,false,false,0,403,false
+188200,,,188200,false,true,true,true,0,748,false
+188246,,,188246,false,true,false,false,0,96,false
+188249,,"*LLC*",,false,true,true,false,73,376,true
+188339,,"*SCAGLIOLA$$*",,true,true,true,true,95,418,false
+188362,"BENJAMIN LARRY WARD",,,false,true,false,true,8,212,false
+188417,,"*FREY*",,false,true,false,false,77,293,false
+188454,"BRIGHAM CITY AMBULANCE DEPT",,,true,false,true,false,53,186,false
+188503,,"*DAVIS*",,false,false,false,true,29,1,true
+188567,188567,,,false,true,true,true,67,85,false
+188595,"ALMAR HOMES INC",,,false,false,true,false,46,794,true
+188666,,"*CONST*",,true,true,true,false,95,565,true
+188761,"PARK PLACE BUILDING CORP",,,true,false,true,true,64,807,true
+188806,,"*$$$*",,false,true,true,false,33,798,true
+188854,,,188854,true,false,false,true,0,368,false
+188896,188896,,,false,true,true,false,53,571,false
+188900,,,188900,true,true,true,false,0,653,false
+188963,,"*ASSOCIATES*",,false,false,true,true,42,364,false

@@ -1,0 +1,636 @@
+LocationID,Name,NameMatch,RegionID,SortRegion,SortLocationId,SortName,Skip,Take,Count
+0027,Washington 27,"*Washington*",40E,false,false,false,7,888,false
+0223,SHARAKA BERT,"*BERT*",23S,false,false,true,3,117,false
+0521,NEW WAREHOUSE,"*WAREHOUSE*",60,true,false,false,9,429,true
+0530,HARPER'S STORE,"*STORE*",71D,true,true,true,9,220,true
+0716,SNICKER'S WAREHOUSE,"*SNICKER'S*",13w,true,true,true,7,917,false
+1001,CEDAR,"*CEDAR*",67u,true,true,true,8,540,false
+1012,West Jordan,"*Jordan*",67s,false,false,true,6,893,true
+1013,Redwood Road,"*Road*",67u,true,false,true,9,739,true
+1016,Commercial Development Center,"*Commercial*",67s,true,true,false,2,616,false
+109,MACOMB STORE - CLOSED,"*-*",74D,false,false,true,10,153,false
+1100,Boise LBM,"*LBM*",64S,false,false,true,9,130,true
+1102,Boise Truss,"*Truss*",64S,false,true,true,10,420,false
+1104,Boise Ready Frame,"*Frame*",64S,false,false,false,9,175,false
+1120,Twin Falls LBM,"*LBM*",50a,false,false,false,3,183,false
+1133,Boise Millwork,"*Millwork*",67I,true,false,false,4,9,false
+1154,LINDON STRUCTURES,"*LINDON*",67S,true,false,true,2,281,false
+1156,Salt Lake City Components,"*City*",67S,false,false,false,1,172,true
+1161,WASATCH VA DIVISION,"*DIVISION*",67s,true,true,false,7,141,false
+1165,LINDON,"*LINDON*",67S,false,true,false,5,963,true
+1166,Salt Lake Reload,"*Reload*",67S,true,true,false,10,840,true
+1184,A WAREHOUSE,"*WAREHOUSE*",A11,true,false,true,1,813,false
+1193,Utah Consignment,"*Consignment*",67S,true,true,true,6,812,true
+1201,BAKERSFIELD - CLOSED,"*CLOSED*",69L,true,false,true,8,639,true
+1202,Burbank,"*Burbank*",69L,true,true,true,1,891,true
+1203,Camarillo,"*Camarillo*",99T,true,false,true,4,487,false
+1204,Hollywood,"*Hollywood*",69l,false,false,false,5,57,true
+1207,Los Angeles,"*Los*",69l,true,false,false,9,132,true
+1208,Mar Vista,"*Mar*",69l,false,true,false,4,784,false
+1209,North Hollywood,"*Hollywood*",69l,false,true,true,3,586,false
+1210,0,"*0*",69L,false,false,false,3,249,false
+1212,LOS ANGELES MILLWORK,"*ANGELES*",69l,true,true,true,3,665,false
+1214,Santa Clarita,"*Clarita*",69l,false,false,true,6,852,false
+1215,Simi Valley,"*Simi*",69l,false,true,true,6,456,true
+1219,Ventura,"*Ventura*",69l,true,false,true,4,845,true
+1220,VENTURA MILLWORK,"*VENTURA*",69l,false,true,false,4,724,false
+1221,L.A. CONSIGNMENT,"*CONSIGNMENT*",69L,true,true,false,5,877,true
+1225,FRAMING HDWE DIVISION,"*HDWE*",69l,false,true,false,3,581,false
+1238,SIMI VALLEY CONSIGNMENT,"*CONSIGNMENT*",69L,false,false,false,8,22,true
+1239,LOS ANGELES INSTALLED,"*LOS*",69L,false,true,true,7,535,false
+1240,Santa Barbara Showroom,"*Showroom*",69L,true,false,true,6,506,true
+1247,LA MILLWORK CONSIGNMENT,"*MILLWORK*",69L,false,true,false,8,60,false
+125,Atlanta Market Commissions,"*Commissions*",42GC,true,false,true,10,973,true
+126,Houston Mkt Commissions,"*Houston*",66HC,false,false,false,9,892,false
+127,SLC Market Commissions,"*Commissions*",67SC,true,false,true,1,883,false
+1297,LOS ANGELES MKT ADMIN,"*LOS*",69l,false,true,false,1,364,false
+1301,ALBUQUERQUE,"*ALBUQUERQUE*",61n,true,true,true,5,346,true
+1302,ALBUQUERQUE ARCHITECTURAL SPEC,"*ARCHITECTURAL*",61N,true,false,false,6,669,false
+1303,ALBUQUERQUE COMPONENTS,"*ALBUQUERQUE*",61N,true,false,false,6,724,true
+1304,Albuquerque Door,"*Albuquerque*",61n,false,false,false,10,20,false
+1305,ALBUQUERQUE INSTALLED,"*INSTALLED*",61n,false,true,true,6,220,false
+1306,Albuquerque Ready Frame,"*Ready*",61N,false,true,true,1,45,false
+1349,ALBUQUERQUE MKT ADMIN,"*ADMIN*",61n,false,false,false,8,843,true
+1399,Lincoln Building Supply,"*Supply*",43D,true,true,false,6,175,true
+1400,Idaho Falls LBM,"*Idaho*",64E,false,true,true,6,567,false
+1413,Pocatello LBM,"*Pocatello*",64E,true,true,true,5,394,false
+1414,Eastern Idaho Door/Millwork,"*Eastern*",64E,true,false,false,10,378,true
+1415,Pocatello Ready Frame,"*Ready*",64E,true,false,true,6,448,true
+1416,Idaho Falls Truss,"*Truss*",64E,true,false,false,1,49,false
+1418,Pocatello Truss,"*Pocatello*",64e,false,true,true,6,507,false
+1497,East Idaho Elimination,"*Idaho*",64E,true,true,true,4,386,false
+1499,East Idaho OPS Admin,"*East*",64E,true,true,true,1,606,true
+1601,CENTRAL TEXAS MARKET,"*TEXAS*",66U,false,true,true,2,980,false
+1602,Austin Truss,"*Truss*",66U,false,true,true,1,282,true
+1603,Calcasieu Installed/Framing,"*Calcasieu*",66U,false,true,true,1,834,true
+1605,AUSTIN YARD,"*AUSTIN*",66u,false,true,false,7,630,true
+1606,AUSTIN WINDOWS -- CLOSED,"*--*",66U,false,true,true,3,138,false
+1609,NEW BRAUNFELS ADMIN,"*NEW*",66U,true,false,false,10,539,true
+1611,Helotes - BMC Texas Sales,"*Helotes*",66U,false,true,true,2,266,false
+1620,LUBBOCK EAST,"*EAST*",66W,true,true,true,2,9,false
+1622,LUBBOCK WEST,"*WEST*",66W,true,false,true,1,259,true
+1623,Lubbock Building Specialties,"*Specialties*",66W,false,false,false,4,463,true
+1624,Lubbock Installed Sales,"*Installed*",66W,false,true,false,6,570,true
+1625,LUBBOCK CONSIGNMENT,"*CONSIGNMENT*",66W,false,true,true,5,359,true
+1626,LUBBOCK ELIM,"*ELIM*",66W,false,false,false,5,748,false
+1627,Amarillo Mkt Admin,"*Admin*",66M,true,true,true,2,761,true
+1628,Lubbock Ready Frame,"*Ready*",66W,false,true,true,8,107,true
+1631,HOUSTON MILLWORK,"*HOUSTON*",66H,false,false,true,1,380,true
+1632,North Texas Door,"*North*",66D,true,false,true,2,650,true
+1635,HOUSTON INSTALLED SALES,"*INSTALLED*",66H,false,true,true,9,239,false
+1641,San Antonio Lumber,"*San*",66S,true,false,true,2,532,false
+1643,SAN ANTONIO INST SALES,"*SAN*",66S,false,true,true,3,602,false
+1655,Amarillo Yard,"*Yard*",66M,false,false,true,7,278,false
+1656,Amarillo Satellite,"*Satellite*",66M,true,false,true,3,499,true
+1657,Amarillo Installed Sales,"*Installed*",66M,true,true,false,5,873,false
+1658,AMARILLO CONSIGNMENT,"*AMARILLO*",66M,false,false,false,1,712,true
+1659,AMARILLO ELIM,"*AMARILLO*",66M,false,false,true,8,890,false
+1660,BISON - MILLWORK,"*MILLWORK*",66h,true,false,true,8,706,false
+1662,Houston Installed - Closed,"*Closed*",66H,false,true,false,6,809,true
+1663,BISON TRUSS & COMPONENTS,"*BISON*",66h,true,true,false,4,34,true
+1665,BISON - CONROE LUMBER DISTRIBU,"*CONROE*",66h,true,true,true,8,909,false
+1666,BISON - ADMIN/CENTRAL PURCHASI,"*BISON*",66h,false,false,true,5,885,true
+1667,BISON - ROSENBERG,"*BISON*",66H,false,false,false,2,158,true
+1668,BISON-ROSENBERG CONSIGNMENT,"*BISON-ROSENBERG*",66H,true,false,true,5,776,true
+1669,BISON-CONROE CONSIGNMENT,"*CONSIGNMENT*",66H,false,false,false,2,203,false
+1695,SAN ANTONIO MKT ADMIN,"*ANTONIO*",66S,true,true,true,3,919,true
+1699,AUSTIN MKT ADMIN,"*MKT*",66U,true,false,true,7,42,false
+1700,BISON-CONROE CONSIGNMENT,"*CONSIGNMENT*",66H,false,false,true,6,131,true
+1701,SPRINGDALE CONTRACTOR,"*SPRINGDALE*",44A,false,true,false,9,951,false
+1707,ARKANSAS MKT ADMIN,"*ADMIN*",44A,true,false,true,5,839,false
+1717,ARKANSAS INSTALLED,"*INSTALLED*",44A,false,true,false,4,87,false
+1719,Benton Showroom & Design Cntr,"*Cntr*",44A,false,true,true,9,374,false
+1720,Arkansas Lumber,"*Lumber*",44A,false,true,true,3,308,true
+1800,Rexburg LBM,"*LBM*",64E,false,false,false,8,326,false
+1963,Clinton Interior Design,"*Design*",43D,true,false,true,1,479,true
+1986,SHARAKA TEST MARKET,"*MARKET*",23H,true,false,false,2,738,true
+2010,TEST WHSE FOR SHARAKA,"*FOR*",33S,true,false,true,2,841,true
+2019,SHARAKA'S NEW TEST MARKET,"*MARKET*",7S,false,false,true,9,699,false
+2023,KRIS' MARKET ELIMINATION WHSE,"*MARKET*",903K,false,true,true,9,989,false
+2200,Everett LBM,"*LBM*",52W,false,true,false,5,38,false
+2202,Everett Truss,"*Everett*",60,false,true,true,2,61,true
+2204,Everett Ready Frame,"*Ready*",52W,false,false,true,9,557,false
+2298,Pacific NW Mkt Elim,"*Elim*",52w,true,false,true,2,235,true
+2299,Pacific NW Market Admin,"*NW*",52W,true,false,true,7,845,false
+2300,Kingston LBM,"*LBM*",52W,false,false,false,3,356,true
+2302,Kingston Truss,"*Truss*",52W,true,true,true,10,273,false
+2400,Tacoma LBM,"*Tacoma*",52W,true,true,true,1,676,false
+2404,Tacoma Ready Frame,"*Tacoma*",52W,false,false,false,7,911,true
+2650,Ogden LBM,"*Ogden*",67S,false,false,true,3,152,true
+2653,ogden door and window,"*and*",67s,true,false,true,6,461,false
+2663,Ogden Commercial Door & Hdwe,"*Door*",67S,false,true,true,5,979,false
+2700,West Jordan LBM,"*Jordan*",67S,true,true,false,3,269,true
+2702,West Jordan Truss,"*Truss*",67S,false,true,false,10,850,true
+2704,Salt Lake Panel,"*Lake*",67S,false,true,true,3,117,true
+2705,SLC Window Showroom,"*Window*",67S,false,true,false,5,821,true
+2717,SLC Specialty Hardware,"*Specialty*",67S,true,false,false,1,55,true
+2718,SLC Cabinet Design Center,"*Design*",67S,false,false,false,9,977,true
+2732,Salt Lake City UT Millwork,"*UT*",67s,false,true,false,4,652,true
+2733,Orem Doors And Millwork,"*And*",67S,false,true,true,5,876,true
+2734,SLC Millwork Installed,"*SLC*",67S,true,false,true,7,665,false
+2799,Intermountain Ops Admin,"*Admin*",68M,false,true,true,8,691,true
+2800,Orem LBM,"*LBM*",67S,false,false,true,4,997,false
+2804,SLC Ready Frame,"*Frame*",67S,true,false,false,7,373,false
+3000,MARYLAND STORE,"*STORE*",30M,true,true,true,8,702,false
+3001,LOUISANA STORE,"*STORE*",30L,true,true,false,3,396,true
+3022,Testing Warehouse,"*Testing*",43T,true,false,false,10,891,true
+3332,Colorado Springs Truss,"*Truss*",62C,true,true,true,4,588,false
+3333,Colorado Springs Millwork,"*Springs*",62C,false,true,false,4,147,true
+3334,Pueblo Ready Frame,"*Ready*",62C,true,false,true,7,260,true
+3350,Colorado Springs LBM,"*LBM*",62C,false,false,false,4,318,true
+3501,Greeley LBM INC,"*Greeley*",62C,false,true,false,7,518,true
+3533,Greeley Millwork,"*Greeley*",62C,true,false,false,5,264,false
+3535,Greeley Windows,"*Greeley*",62C,false,false,true,3,421,false
+3540,Northglen Specialty Hdw,"*Specialty*",62C,true,true,false,5,368,false
+3541,Edwards Specialty Hdw,"*Edwards*",62C,true,false,true,3,230,false
+3803,Dove Valley Millwork,"*Valley*",62C,false,false,false,10,851,false
+3805,Denver Windows,"*Windows*",62C,false,true,false,3,780,true
+3809,Dove Valley Millwork Installed,"*Installed*",62C,true,false,false,1,854,true
+3895,Loveland Sales Office,"*Office*",62C,true,true,true,5,907,false
+3896,Denver Sales Office,"*Denver*",62C,true,true,true,1,517,false
+3897,Colorado Springs Reload,"*Colorado*",62C,false,true,true,9,783,false
+3898,Colorado Market Elimination,"*Colorado*",62C,true,false,true,9,355,true
+3899,Colorado Ops Admin,"*Admin*",62C,false,false,true,5,273,true
+4000,Denver LBM,"*Denver*",62C,false,true,false,9,529,true
+4001,Raleigh,"*Raleigh*",41t,true,true,false,4,400,false
+4002,Fort Lupton,"*Fort*",62c,true,true,false,9,500,false
+4003,TRIANGLE CABINETS,"*TRIANGLE*",41T,false,true,true,6,830,false
+4004,DURHAM - RE-OPENED!!,"*RE-OPENED!!*",71C,false,false,false,7,206,true
+4007,Apex,"*Apex*",41t,true,true,true,1,477,false
+4010,TRIANGLE MILLWORK,"*MILLWORK*",41T,true,true,true,1,691,true
+4011,BFS Johnston County INC,"*Johnston*",41T,true,false,true,8,861,false
+4018,RICHMOND,"*RICHMOND*",43V,false,true,true,3,696,true
+402,Bellefontaine - Closed,"*Closed*",75X,false,true,false,10,257,true
+4024,Johnston County Panels,"*County*",40,false,true,false,7,684,true
+4025,Paradise,"*Paradise*",43P,true,true,true,4,956,true
+4027,YOUNGSVILLE,"*YOUNGSVILLE*",41T,false,false,false,4,174,false
+4028,DOVER - CLOSED,"*DOVER*",43P,false,false,true,4,248,false
+4031,TRIANGLE INSTALLED SALES,"*SALES*",41t,true,false,true,4,900,true
+4037,MANASSAS,"*MANASSAS*",43D,false,false,true,3,533,true
+4041,FREDERICKSBURG,"*FREDERICKSBURG*",43D,false,true,true,8,9,false
+4045,SMOOT,"*SMOOT*",43D,true,true,false,7,326,false
+4050,RICHMOND COMPONENTS,"*COMPONENTS*",43V,true,true,false,5,139,true
+4054,DC Installed,"*DC*",43D,false,true,true,8,422,true
+4058,DELAWARE WAREHOUSE,"*DELAWARE*",43D,false,true,false,1,859,true
+4073,RICHMOND PVC,"*PVC*",43V,true,true,true,2,726,true
+4074,PA Installed,"*Installed*",43P,true,true,false,10,9,true
+4077,PARADISE COMPONENTS,"*COMPONENTS*",43P,true,true,true,8,939,false
+4085,Paradise Ready Frame,"*Ready*",43P,false,false,false,3,170,true
+4096,DC MKT ADMIN,"*DC*",43D,false,true,true,4,553,true
+4097,PARADISE MARKET ADMIN,"*PARADISE*",43P,false,false,true,8,189,false
+4099,TRIANGLE MKT ADMIN,"*TRIANGLE*",41t,true,false,true,3,3,true
+4103,Winston Salem,"*Winston*",52w,true,false,true,1,966,true
+4108,GREENVILLE,"*GREENVILLE*",42V,true,true,false,2,80,true
+4114,Monroe Truss,"*Truss*",40c,false,true,true,1,620,false
+4122,Middlesex Truss,"*Truss*",40c,true,true,true,3,547,false
+4126,NE COLUMBIA,"*COLUMBIA*",42c,true,false,true,7,11,false
+4128,Lexington,"*Lexington*",42c,false,false,false,6,934,true
+4129,Charlotte Installed,"*Installed*",41T,false,false,true,4,918,false
+4133,Rock Hill,"*Rock*",71b,true,false,true,5,328,false
+4141,TBSG COMPONENTS & MILLWORK,"*TBSG*",42G,false,true,false,10,892,false
+4144,TBSG INSTALLED SALES,"*TBSG*",42G,false,false,true,3,687,true
+4146,SC MILLWORK,"*MILLWORK*",42C,true,false,false,6,659,false
+4163,North Charlotte,"*Charlotte*",40,false,true,false,2,983,false
+4164,Triangle Custom Sales - One,"*-*",41T,false,true,false,8,737,false
+4165,Triangle Custom Sales - Two,"*Triangle*",41T,true,true,false,10,425,false
+4166,Triangle Production Sales,"*Triangle*",41T,false,true,true,6,963,false
+4167,Triangle R&R Sales,"*R&R*",41T,false,true,true,9,30,false
+4169,GREENVILLE MKT ADMIN,"*MKT*",42v,false,true,true,4,156,true
+4173,COLUMBIA INSTALLED,"*COLUMBIA*",42c,true,false,true,5,56,false
+4174,Greenville Installed,"*Greenville*",42v,false,true,false,10,545,false
+4175,Triad Installed,"*Triad*",42t,false,false,false,3,36,true
+4178,Columbia Mkt Admin,"*Columbia*",42C,false,true,true,5,969,true
+4181,SC Market Admin,"*SC*",42C,true,true,false,8,99,false
+4182,Greensboro,"*Greensboro*",42T,false,false,true,9,109,false
+4183,Greensboro Millwork,"*Greensboro*",42T,true,false,false,1,891,false
+4184,Greensboro Installed,"*Greensboro*",42T,true,false,false,5,200,true
+4185,TBSG Custom Millwork,"*Custom*",42G,false,true,true,8,979,true
+4186,TBSG/RBI FTE Transfer,"*Transfer*",ADM,false,true,true,2,837,false
+4187,Monroe Millwork,"*Monroe*",42L,false,false,true,7,905,false
+4191,RICHMOND MKT ADMIN,"*ADMIN*",43V,false,true,true,9,263,false
+4193,TRIAD MKT ADMIN,"*ADMIN*",42t,true,false,true,7,588,false
+4195,SOUTHEAST COMPONENTS ADMIN,"*COMPONENTS*",40c,false,false,true,1,962,false
+4196,CHARLOTTE MKT ADMIN,"*CHARLOTTE*",42l,false,false,true,4,399,true
+4202,Tucker GA Yard,"*Tucker*",42g,false,true,true,8,887,true
+4203,Cherokee,"*Cherokee*",42g,false,false,false,1,592,false
+4204,Tucker Ready Frame,"*Frame*",42G,false,true,false,2,495,false
+4206,Atlanta GA Millwork,"*Millwork*",42G,false,false,false,8,146,false
+4207,Fairburn,"*Fairburn*",42g,false,false,true,6,482,false
+4208,Norcross GA Millwork,"*Millwork*",42G,true,true,false,3,670,true
+4215,Atlanta Installed,"*Installed*",42g,true,true,true,4,123,false
+4222,JUSTIN MAY I,"*I*",20,false,true,true,7,495,true
+4250,Pueblo LBM,"*LBM*",62C,true,false,true,1,361,true
+4253,Pueblo Millwork,"*Pueblo*",62C,true,false,true,6,68,false
+4299,ATLANTA MKT ADMIN,"*ADMIN*",42g,false,false,true,7,21,true
+4386,Paradise Mkt Elim,"*Elim*",43P,true,true,true,9,170,false
+4500,Modesto LBM,"*Modesto*",69N,true,true,true,4,214,false
+4502,Modesto Truss,"*Truss*",69N,false,false,false,5,545,false
+4503,Modesto Millwork,"*Millwork*",69N,false,true,false,3,809,true
+4504,Modesto Ready Frame,"*Ready*",69N,true,true,false,3,969,true
+4505,Modesto Mill - VRW,"*VRW*",69N,false,false,false,3,698,true
+4514,Modesto Ready Frame,"*Frame*",69N,true,true,false,9,460,false
+456,LAK3RS,"*LAK3RS*",77F,false,false,true,8,366,true
+458,Red Flag,"*Flag*",78p,true,true,true,4,526,false
+4603,Sacramento Millwork,"*Millwork*",69N,true,false,true,1,377,false
+4605,North Highlands MW,"*Highlands*",69N,false,true,true,7,841,true
+4606,Sacramento Bath & Mirror,"*Mirror*",69N,false,true,false,7,73,false
+4607,Nor Highlands Installed MW,"*MW*",69N,false,true,false,8,914,false
+4700,Fresno LBM,"*Fresno*",69N,false,true,false,4,255,false
+4702,Fresno Truss,"*Truss*",69N,false,false,true,9,160,false
+4703,Fresno Millwork,"*Fresno*",69N,true,false,true,5,748,true
+4704,Fresno Ready Frame,"*Frame*",69N,true,false,false,10,364,true
+4710,Woodland LBM,"*Woodland*",69N,false,true,true,4,393,true
+4711,Woodland Ready Frame,"*Ready*",69N,true,false,true,2,91,true
+4798,Chico Facility,"*Chico*",69N,false,true,true,2,4,true
+4799,Sac MW Raw Mtl Facility,"*Facility*",69N,false,true,false,6,464,true
+4809,NoCal Installed MW,"*NoCal*",69N,false,false,true,1,890,true
+5010,NC COMPONENT ELIM,"*COMPONENT*",40E,false,false,false,5,813,false
+5011,TRIANGLE SALES ELIM,"*TRIANGLE*",41t,true,false,true,4,625,false
+5015,CLT/TRIAD MKT ELIM,"*ELIM*",40E,true,true,true,4,729,false
+5021,ATLANTA MKT SALES ELIM,"*ATLANTA*",42G,true,false,false,7,657,false
+5022,CHARLOTTE MKT SALES ELIM,"*SALES*",42L,false,true,false,3,232,true
+5023,TBSG Elimination Warehouse,"*Elimination*",42G,false,true,true,6,467,true
+5024,Cumming Truss Elim Whse,"*Elim*",42G,true,false,false,8,880,false
+5025,Atlanta Ready Fm Elim Whse,"*Atlanta*",42G,false,false,true,2,928,true
+5028,Delaware Mkt Sales Elim,"*Elim*",43E,true,true,false,7,921,true
+5033,TRIAD MKT SALES ELIM,"*TRIAD*",42T,true,true,true,2,979,true
+5034,DC MKT SALES ELIM,"*MKT*",43D,true,true,true,1,596,false
+5035,GREENVILLE MKT SALES ELIM,"*MKT*",42V,false,true,true,5,917,false
+5036,SAN ANTONIO MKT SALES ELIM,"*SALES*",66S,false,true,true,7,931,false
+5037,RICHMOND MKT ELIM,"*RICHMOND*",43V,false,false,true,2,971,false
+5038,ARKANSAS MKT ELIM,"*ELIM*",44A,false,true,true,4,674,false
+5057,CAPITAL MKT ELIM,"*MKT*",43P,false,false,true,8,201,false
+5058,COLUMBIA MKT SALES ELIM,"*ELIM*",42C,true,true,true,7,427,true
+5059,TX ELIM,"*TX*",60E,false,false,true,1,393,false
+5061,AUSTIN MKT SALES ELIM,"*MKT*",66U,true,true,true,3,94,false
+5062,HOUSTON MKT ELIMINATIONS,"*MKT*",66H,false,false,false,9,695,false
+5071,SALT LAKE CITY ELIM,"*CITY*",67s,true,true,true,3,444,false
+5215,ALBUQUERQUE ELIM,"*ALBUQUERQUE*",61n,true,false,true,1,857,false
+568,Test CPMAP,"*Test*",41t,false,true,false,6,33,true
+569,Jaylah T.,"*T.*",69N,false,false,false,6,992,true
+5700,New Braunfels LBM,"*LBM*",66U,false,false,false,1,59,false
+5702,Central Texas Truss,"*Truss*",66U,false,false,true,4,921,true
+5703,New Braunfels Showroom,"*Showroom*",66U,true,false,false,6,156,true
+5704,New Braunfels Ready Frame,"*New*",66U,false,false,true,7,269,false
+5705,Austin Ready Frame,"*Frame*",66U,false,false,false,5,549,false
+5706,Austin/San Antonio Framing,"*Framing*",66U,true,true,false,6,897,false
+5718,Central Texas Cabinets,"*Cabinets*",66U,false,true,true,2,741,false
+5783,San Antonio Millwork,"*Antonio*",66U,true,true,false,6,548,true
+5799,Austin/San Antonio Admin,"*Antonio*",66U,false,false,false,8,798,true
+5800,Austin LBM,"*Austin*",66U,true,true,true,8,378,true
+5804,Austin Ready Frame,"*Frame*",66U,true,true,false,9,929,true
+5953,Austin Millwork,"*Austin*",66U,true,true,true,7,199,true
+5954,Austin Harware Showroom,"*Austin*",66U,true,true,false,2,220,false
+6000,El Paso LBM,"*LBM*",63E,false,false,false,1,783,true
+6008,El Paso Millwork,"*Paso*",66W,false,false,false,7,730,true
+6009,El Paso Truss,"*Paso*",63E,false,true,true,1,890,true
+601,ALAMOSA - OPEN,"*ALAMOSA*",56k,true,false,false,5,253,false
+6010,Las Cruces LBM,"*LBM*",63E,true,true,false,7,642,true
+6011,El Paso North Hills LBM,"*LBM*",63E,false,true,true,4,83,true
+6013,Roger Motor,"*Roger*",ZONE,true,false,false,4,188,true
+6014,El Paso Ready Frame,"*Frame*",63E,false,false,true,3,557,true
+603A,Denver North Warehouse A,"*Warehouse*",06,true,false,false,7,928,false
+603B,Denver North Warehouse B,"*B*",06,false,true,false,3,913,false
+603C,Denver North Warehouse C,"*Warehouse*",06,true,true,false,8,944,true
+603D,Denver North Warehouse D,"*D*",06,false,true,true,3,724,true
+603E,Denver North Warehouse E,"*North*",06,true,false,true,10,279,false
+603F,Denver North Warehouse F,"*Denver*",06,true,true,true,5,787,false
+603G,Denver North Warehouse G,"*North*",06,true,false,true,2,332,false
+603H,Denver North Warehouse H,"*Warehouse*",06,true,true,true,6,639,false
+603I,Denver North Warehouse I,"*I*",06,true,false,false,8,47,true
+603J,Denver North Warehouse J,"*J*",06,false,true,false,1,36,true
+6163,Charlotte MF MW,"*MF*",66D,true,true,true,8,138,false
+6232,Holly Springs,"*Springs*",43D,false,false,true,2,541,false
+6501,COLEMAN-CHARLOTTE,"*COLEMAN-CHARLOTTE*",90S,false,false,false,10,725,false
+6503,COLEMAN-MORRISVILLE,"*COLEMAN-MORRISVILLE*",90S,false,false,false,6,807,true
+6509,COLEMAN-GREENSBORO,"*COLEMAN-GREENSBORO*",90S,false,true,true,4,196,false
+6519,COLEMAN-GREENVILLE,"*COLEMAN-GREENVILLE*",90S,false,true,false,8,915,false
+6520,COLEMAN-PARADISE,"*COLEMAN-PARADISE*",90N,true,true,false,3,384,false
+6521,COLEMAN-MANASSAS,"*COLEMAN-MANASSAS*",90N,false,true,false,6,998,true
+6522,COLEMAN-CHARLESTON,"*COLEMAN-CHARLESTON*",90S,false,false,true,3,173,true
+6523,COLEMAN-COLUMBIA,"*COLEMAN-COLUMBIA*",90S,false,true,false,6,148,false
+6524,STAFFORD DESIGN CENTER,"*DESIGN*",90N,false,false,false,2,371,false
+6525,COLEMAN-BALTIMORE FLOORING,"*COLEMAN-BALTIMORE*",90N,false,true,true,2,918,true
+6526,FT MYERS FLOORING,"*FT*",90F,true,false,true,9,782,true
+6527,COLEMAN - FAYETTEVILLE,"*-*",90S,false,false,true,8,999,false
+6528,COLEMAN - WILLIAMSPORT,"*-*",90N,true,false,true,2,516,false
+6597,Coleman Northeast Admin,"*Admin*",90N,true,true,true,4,264,false
+6598,Coleman Southeast Admin,"*Southeast*",90S,true,false,true,7,525,false
+6599,COLEMAN FLOOR ADMIN,"*ADMIN*",90A,false,false,false,7,776,true
+6655,MWPC Dallas MIllwork,"*Dallas*",66D,true,false,true,7,618,true
+6675,Central Texas Windows,"*Central*",66U,true,false,false,6,269,true
+6700,Fort Worth LBM,"*Worth*",66D,false,false,false,2,427,false
+6704,Fort Worth Insulation,"*Fort*",66D,true,false,false,10,604,true
+6710,Frisco LBM,"*Frisco*",66D,true,false,true,4,2,false
+6712,Frisco Truss,"*Truss*",66D,false,true,true,8,191,false
+6715,Frisco Framing,"*Frisco*",66D,true,true,false,3,86,true
+6716,Frisco - BMC Texas Sales,"*-*",66D,false,true,true,1,16,false
+6717,Houston Millwork - 290,"*290*",66H,false,false,true,1,193,false
+6718,Grand Prairie Millwork,"*Millwork*",66D,true,true,true,6,87,false
+6719,Multi-Family Millwork Install,"*Install*",66D,false,true,true,7,929,true
+6723,Dallas Design Center,"*Design*",66D,false,false,true,4,143,true
+6724,DFW READY-FRAM PRECUT,"*READY-FRAM*",66H,false,true,true,2,32,true
+6727,Deford LBM,"*Deford*",66D,false,true,true,6,778,true
+6728,Deford Millwork,"*Millwork*",66D,false,true,false,5,306,true
+6729,Deford Truss,"*Truss*",66D,true,false,false,1,993,true
+6730,Deford Supply,"*Deford*",66D,false,true,false,7,232,true
+6731,Deford Admin Services,"*Admin*",66D,false,true,true,9,717,true
+6733,Fort Worth Design Center,"*Fort*",66D,false,true,true,4,762,false
+6734,Fort Worth Ready Frame,"*Fort*",66D,false,true,true,7,792,true
+6753,Coppell-Millwork,"*Coppell-Millwork*",66D,true,true,true,9,909,false
+678,Chuds new warehouse,"*warehouse*",69l,false,true,true,5,566,false
+6797,DFW Market Elimination,"*Market*",66D,true,true,false,10,695,true
+6798,Texas Division Admin,"*Texas*",66D,true,true,true,8,661,true
+6799,DFW Market Admin,"*Admin*",66D,false,false,true,5,84,false
+6800,Abilene LBM,"*Abilene*",66U,true,true,true,6,888,true
+6802,Abilene Truss,"*Truss*",66U,true,false,false,8,611,true
+6803,Abilene Millwork,"*Millwork*",66U,true,true,false,7,231,false
+6804,Abilene Mkt Admin,"*Abilene*",66U,true,true,true,8,302,true
+6902,Houston Framing,"*Houston*",66H,true,true,true,2,828,true
+6903,Houston Millwork,"*Millwork*",66H,true,true,true,5,764,true
+6905,Houston Windows,"*Windows*",66H,false,true,false,6,952,false
+6908,College Station Showroom,"*Station*",66H,false,false,true,7,473,true
+6910,Rosenberg LBM,"*Rosenberg*",66H,false,false,false,5,626,false
+6912,Rosenberg Truss,"*Truss*",66H,false,false,true,8,435,false
+6913,Rosenberg Millwork,"*Rosenberg*",66H,true,true,true,10,462,false
+6914,Rosenberg BMC Texas Sales,"*BMC*",66H,false,true,true,8,241,false
+6915,Houston West Road LBM,"*Houston*",66H,false,false,false,5,734,false
+6924,Houston Ready Frame,"*Ready*",66H,false,false,true,3,524,false
+6925,Rosenberg Ready Frame,"*Rosenberg*",66H,false,true,true,7,352,true
+72,SBS BULL RUN,"*BULL*",43D,true,true,false,2,841,false
+7200,Issaquah LBM,"*LBM*",52W,false,false,true,10,638,false
+7202,Issaquah Truss,"*Truss*",52W,false,false,true,8,10,true
+7204,PNW Reload,"*PNW*",52W,true,false,false,5,469,false
+7214,Issaquah Ready Frame,"*Ready*",52W,true,false,true,5,385,true
+7215,Puget Sound Windows,"*Sound*",52W,true,true,false,9,287,true
+7253,Issaquah Millwork - Doors,"*Doors*",52W,true,false,true,7,169,false
+7258,Issaquah Millwork - Cabinets,"*-*",52W,false,false,false,1,152,false
+73,Appomattox Building Supply,"*Building*",43d,true,true,false,5,634,false
+7300,Missoula LBM,"*LBM*",68M,true,false,false,7,956,false
+7302,Missoula Truss,"*Missoula*",68M,true,false,false,8,747,true
+7303,Missoula Millwork,"*Millwork*",68M,false,true,true,4,626,true
+7304,Missoula Consignment,"*Consignment*",68M,true,false,true,8,279,false
+7398,Montana Market Elimination,"*Montana*",68M,false,false,false,9,871,false
+7399,Montana Mkt Ops Admin,"*Admin*",68M,true,true,true,5,246,true
+7400,Helena LBM,"*LBM*",68M,false,true,true,3,817,false
+7404,Helena Ready Frame,"*Ready*",68M,false,true,false,9,294,false
+7452,Helena Truss,"*Truss*",68M,true,false,true,8,43,true
+7616,SOUTHEAST EWP,"*EWP*",40R,false,true,true,6,821,false
+7777,Whse 777 Name,"*Whse*",30,true,true,false,1,424,false
+7779,Whse 7779,"*Whse*",43D,false,true,false,7,511,true
+7811,Kalispell Ready Frame,"*Kalispell*",68M,false,false,false,1,649,false
+789,jazzy jeffII,"*jeffII*",69l,false,true,true,3,798,true
+790,Fresh PrinceJR,"*PrinceJR*",69l,false,false,true,1,822,true
+7904,SBS West Admin,"*West*",65A,false,false,false,8,483,false
+7905,EAST ADMIN,"*EAST*",45A,true,false,false,4,18,true
+7907,CAPITAL MKT ADMIN,"*CAPITAL*",30A,true,true,true,9,555,true
+7911,Jacksonville Install Sales,"*Sales*",42S,true,true,false,4,388,false
+7915,ATLANTA COMM BLDG MTL ADMIN,"*BLDG*",42G,false,false,true,6,768,false
+7916,SALT LAKE DIV ELIM - CLOSED,"*CLOSED*",60E,false,false,false,1,149,false
+7919,North Idaho Div Elim,"*Div*",67I,true,true,true,1,260,true
+7921,Albuquerque Div Elim,"*Albuquerque*",61N,true,false,false,4,786,true
+7924,Los Angeles Mkt Elim,"*Los*",69L,true,true,false,9,707,true
+7931,STOCK COMM ARCH WDW & DOORS,"*WDW*",43D,true,true,false,6,249,true
+7933,Stock Building Supply Holdings,"*Building*",ADM,true,true,true,2,828,false
+7934,SBS BMC,"*BMC*",ADM,false,true,false,8,849,true
+7935,Merger Integration,"*Integration*",ADM,true,true,true,3,54,true
+7936,Mountain West Division Admin,"*Mountain*",ADM,false,true,false,5,165,true
+7937,Southest Division Admin,"*Division*",ADM,true,false,false,6,10,true
+7938,Texas Division Admin,"*Division*",ADM,true,false,false,3,711,false
+7939,West Division Admin,"*West*",ADM,false,true,false,1,659,false
+7940,BMC SOX,"*SOX*",ADM,false,true,true,10,415,true
+7941,ERP Integration,"*ERP*",ADM,true,false,true,7,419,false
+7942,Greensboro Lake Oconee Pkwy,"*Pkwy*",42S,true,false,false,9,55,true
+7943,Jacksonville Ready Frame,"*Ready*",42S,false,false,false,6,633,false
+7944,Rincon Ready Frame,"*Ready*",42S,false,true,false,5,258,false
+7950,Fleming Pate Rogers Road,"*Fleming*",42S,false,false,true,2,69,false
+7960,Rincon Commercial Drive,"*Commercial*",42S,false,true,false,9,943,false
+7961,Rincon Installed Sales,"*Sales*",42S,false,false,false,9,854,true
+7962,Midway TrussMart,"*TrussMart*",42S,true,false,true,3,732,true
+7963,Ailey Broughton St,"*St*",42S,true,true,true,3,311,false
+7964,Bestline Installed Sales,"*Installed*",42S,true,true,true,8,958,false
+7965,Wholesale Building Products,"*Wholesale*",42S,true,false,false,1,157,true
+7970,Perry Kellwood Drive,"*Drive*",42S,true,false,true,9,55,true
+7971,Perry HMD,"*Perry*",42S,false,false,false,9,310,true
+7993,Procon Millwork Installed,"*Millwork*",42S,false,false,false,10,229,false
+7998,SGA Elim Multi Family,"*Multi*",42S,false,false,false,5,618,true
+8000,SBS HOLDINGS INC ENTITY ADMIN,"*ADMIN*",ADM,true,false,false,10,518,false
+8001,SBS HOLDINGS LLC ENTITY ADMIN,"*ENTITY*",ADM,false,true,false,2,777,false
+8002,SBS LLC ENTITY ADMIN,"*ENTITY*",ADM,true,true,false,9,390,true
+8004,SBS WEST ENTITY ADMIN,"*ENTITY*",ADM,true,true,true,10,914,false
+8005,COLEMAN FLOOR ENTITY ADMIN,"*ADMIN*",ADM,false,false,false,6,563,false
+8014,DISCO ADMIN - SBS WEST,"*ADMIN*",ADM,true,true,false,2,129,false
+8015,DISCO ADMIN - BISON,"*DISCO*",ADM,true,false,true,4,891,true
+8016,DISCO ADMIN - MNC,"*ADMIN*",ADM,true,false,true,7,359,false
+8017,DISCO ADMIN-COLEMAN,"*DISCO*",ADM,false,false,false,10,431,true
+8018,DISCO ADMIN-SBS, LLC,"*ADMIN-SBS,*",ADM,true,true,true,3,419,true
+8019,DISCO ADMIN - MIDWEST,"*ADMIN*",ADM,false,true,false,10,792,false
+8020,DISCO ADMIN-SBS OF FL,"*ADMIN-SBS*",ADM,true,false,false,1,636,false
+8021,TBSG LEGAL ENTITY ADMIN,"*LEGAL*",ADM,false,false,true,5,521,false
+8022,COLEMAN SE LEGAL ENTITY ADMIN,"*LEGAL*",ADM,true,true,true,6,615,false
+8023,CHESAPEAKE LEGAL ENTITY ADMIN,"*LEGAL*",ADM,false,true,false,2,515,true
+8024,BMC STOCK SVCS B LLC ADM,"*ADM*",ADM,true,true,false,3,333,false
+8025,BMC Stock Services LLC,"*Stock*",ADM,true,true,false,7,499,false
+8026,Select Build CS,"*Select*",ADM,false,false,false,6,549,false
+8027,Corp Import - BMC East,"*Import*",ADM,false,true,true,8,171,true
+8028,Corp Import - BMC Texas SLS,"*BMC*",ADM,true,true,false,7,666,true
+8029,Corp Import - BMC West,"*Import*",ADM,true,true,true,4,641,true
+8031,Corp Import - BMC East Elim,"*East*",ADM,true,true,false,1,701,false
+8032,Corp Import-BMC Texas Elim,"*Texas*",ADM,true,true,true,6,152,true
+8033,Corp Import - BMC West Elim,"*-*",ADM,true,false,false,2,932,false
+804,Coeur D' Alene,"*Coeur*",67i,true,true,false,6,836,true
+8113,Marietta Millwork,"*Millwork*",42G,true,false,false,7,967,false
+8114,NON-RECURRING SBS WEST ADMIN,"*SBS*",ADM,false,false,false,9,426,false
+8115,NON-RECURRING BISON ADMIN,"*BISON*",ADM,false,false,false,8,761,true
+8118,NON-RECURRING SBS LLC ADMIN,"*SBS*",ADM,true,true,false,7,983,true
+8123,Marietta Installed & SERV/WNTY,"*Installed*",42G,true,false,false,5,853,true
+8133,McDonough Distribution Center,"*Center*",42G,true,false,true,5,509,false
+8143,Marietta Home Improvement,"*Marietta*",42G,true,false,true,6,788,false
+815,Spokane,"*Spokane*",67i,true,false,false,9,650,true
+8153,Duluth Distribution Center,"*Distribution*",42G,true,true,true,4,398,true
+8163,Marietta Transfer,"*Transfer*",42G,false,false,false,4,657,true
+8200,ELIMINATION COMPANY,"*COMPANY*",ADM,true,false,false,10,91,false
+824,Clayton Moore Mem. Lumber Yard,"*Mem.*",43D,true,true,true,4,843,true
+856,chud the best,"*best*",41t,false,true,true,8,161,false
+857,New Chudney,"*Chudney*",41t,true,false,true,2,449,false
+859,Chudney user,"*Chudney*",41t,true,true,true,10,128,true
+8789,Lake Elsinore Facility,"*Lake*",69S,true,true,false,7,760,true
+8790,Indio Framing,"*Framing*",69S,true,true,true,6,126,false
+8791,Indio Truss,"*Truss*",69S,false,false,true,7,143,false
+8792,Indio Ready Frame,"*Frame*",69S,false,true,true,2,203,true
+8793,Indio LBM,"*LBM*",69S,true,true,false,7,712,false
+8794,California Stucco,"*California*",69S,false,true,false,6,730,false
+8796,Indio Hardware Facility,"*Hardware*",69S,true,false,false,6,393,true
+8797,Sothern California Elimination,"*Elimination*",69S,false,false,true,7,904,false
+8798,Southern California Ops Admin,"*Ops*",69S,false,true,true,2,656,true
+8799,West Division Ops Admin,"*West*",ADM,true,false,false,5,85,false
+8800,Norcal Framing,"*Framing*",69N,false,true,true,9,227,false
+8815,Norcal Mult-Fam Framing,"*Framing*",69N,false,true,true,4,257,false
+8912,Las Vegas Framing,"*Framing*",51L,true,true,false,1,656,false
+8925,Las Vegas Spec Build Prod,"*Las*",51L,true,false,false,6,104,false
+8926,Las Vegas LBM,"*LBM*",51L,false,true,false,6,976,false
+8927,Las Vegas Ready Frame,"*Frame*",51L,true,true,false,6,203,true
+8932,Las Vegas Truss,"*Las*",51L,true,true,false,1,78,false
+8933,Berg Street Truss,"*Truss*",51L,true,true,false,10,763,false
+8935,Las Vegas-Stucco,"*Las*",51L,false,false,true,6,335,false
+8970,NON-RECURRING EXPENSE RECLASS,"*NON-RECURRING*",ADM,true,true,true,10,549,true
+8971,NON-RECURRING COST ROLLUP,"*COST*",ADM,true,true,true,7,1,false
+8979,Las Vegas Market Admin,"*Las*",51L,true,true,false,6,698,false
+8984,Record Retention Whse,"*Record*",Adm,false,true,true,1,215,true
+8995,Pcard & T&E Accrual,"*&*",ADM,false,true,false,2,930,true
+8996,BMC Ops Admin,"*Ops*",ADM,true,true,true,5,920,true
+8998,SBS Budget Admin,"*SBS*",ADM,false,true,false,5,233,false
+900,Help me rhonda,"*Help*",69l,true,true,true,7,828,false
+9002,Chuds Famous Duke Warehouse,"*Famous*",98y,false,true,true,5,337,false
+9003,Winning for Duke,"*Winning*",42L,false,true,true,8,11,false
+9004,Duke is still my number 1,"*Duke*",69L,true,false,true,7,54,false
+902,BRIGHAM CITY,"*BRIGHAM*",77f,true,false,false,3,428,true
+9021,Mary J. BligeJR,"*Mary*",GBL,false,true,false,4,402,false
+9022,Kevin Bacon II,"*Bacon*",41t,true,false,true,8,721,true
+904,Layton,"*Layton*",67s,true,false,true,6,297,true
+908,Park City,"*City*",67s,false,false,true,8,54,true
+9201,Rocky Mountain Dist. Ctr,"*Mountain*",ADM,true,true,true,10,804,false
+9299,Rocky Mountain Elimination,"*Mountain*",ADM,true,true,false,2,240,true
+9704,Supply Chain,"*Supply*",ADM,false,false,false,5,134,false
+9710,Health & Safety,"*Health*",ADM,true,false,true,1,755,true
+9714,Tax,"*Tax*",ADM,false,true,true,3,263,false
+9718,eBUSINESS,"*eBUSINESS*",GBL,false,false,true,7,461,true
+9719,Process & Inform Mgmt,"*Inform*",adm,false,true,true,5,598,true
+9720,IT Business Analysis,"*Business*",ADM,false,true,true,2,125,false
+9726,NATIONAL LOCK CENTER,"*NATIONAL*",ADM,false,false,false,6,808,true
+9728,IT OPERATIONS,"*OPERATIONS*",ADM,true,true,false,4,398,true
+9729,IT ASSET MGMT & FINANCE,"*FINANCE*",ADM,false,true,true,5,678,false
+9730,IT SUPPORT,"*IT*",ADM,false,true,false,4,429,true
+9731,IT-ACTIONABLE REPORTING,"*REPORTING*",ADM,false,true,true,3,292,false
+9733,RISK MANAGEMENT,"*RISK*",ADM,false,true,false,7,969,true
+9734,ATLANTA BASIS DISTRIBUTION CTR,"*CTR*",42G,false,false,false,6,30,false
+9735,ATL CO-BASIS CONSIGN CENTER,"*CO-BASIS*",42G,false,false,true,4,762,true
+9736,COLUMBIA BASIS DISTR CENTER,"*COLUMBIA*",42C,true,false,false,4,468,false
+9737,COLUMBIA CO-BASIS CONSIGN CTR,"*CTR*",42C,true,true,false,2,457,true
+9738,HOUSTON BASIS DISTRIBUTION CTR,"*HOUSTON*",66H,true,false,true,10,997,true
+9739,HOUSTON CO-BASIS CONSIGN CTR,"*CTR*",66H,false,false,true,2,388,true
+9740,SLC BASIS DISTRIBUTION CENTER,"*DISTRIBUTION*",67S,false,true,true,9,510,false
+9741,SLC CO-BASIS CONSIGN CENTER,"*SLC*",67S,false,true,false,1,279,true
+9742,TRIAD BASIS DISTRIBUTION CTR,"*BASIS*",42T,false,false,false,1,931,false
+9743,TRIAD CO-BASIS CONSIGN CENTER,"*TRIAD*",42T,true,true,true,9,920,true
+9744,TRIANGLE BASIS DIST CENTER,"*TRIANGLE*",41T,true,true,false,5,884,true
+9745,TRIANGLE CO-BASIS CONSIGN CTR,"*CONSIGN*",41T,false,false,false,7,949,true
+9746,Process Efficiency,"*Process*",ADM,true,false,false,10,581,false
+9747,NON-RECURRING ELIM,"*NON-RECURRING*",ADM,true,false,true,2,328,true
+9748,FREDERICKSBURG BASIS DIST CTR,"*FREDERICKSBURG*",43D,false,false,false,9,583,true
+9749,FREDERICKSBURG CO-BASIS CONSGN,"*FREDERICKSBURG*",43D,true,false,true,8,545,true
+9750,AMARILLO BASIS DIST CENTER,"*AMARILLO*",66M,true,true,true,7,973,true
+9751,AMARILLO CO-BASIS CONSIGN CTR,"*CO-BASIS*",66M,true,false,true,10,611,true
+9752,GREENVILLE BASIS DIST CENTER,"*GREENVILLE*",42V,false,false,true,10,813,false
+9753,GREENVILLE CO-BASIS CONSIGN,"*GREENVILLE*",42V,true,false,false,1,174,true
+9754,LUBBOCK BASIS DIST CENTER,"*DIST*",66W,true,true,false,5,512,false
+9755,LUBBOCK CO-BASIS CONSIGN CTR,"*CONSIGN*",66W,false,false,false,9,791,false
+9756,AUSTIN BASIS DIST CTR,"*CTR*",66S,false,true,true,2,79,false
+9757,AUSTIN CO-BASIS CONSIGN,"*CONSIGN*",66S,false,true,true,5,31,false
+9758,SIMI VALLEY BASIS DIST CTR,"*BASIS*",69L,false,false,false,7,273,true
+9759,SIMI VALLEY CO-BASIS CONSIGN,"*CONSIGN*",69L,false,false,true,5,996,true
+9760,PARADISE BASIS DIST CENTER,"*CENTER*",43P,false,false,true,6,875,true
+9761,PARADISE CO-BASIS CONSIGN CTR,"*PARADISE*",43P,false,true,true,4,230,false
+9763,CONROE BASIS DIST CENTER,"*DIST*",66h,true,false,true,9,477,false
+9764,CONROE CO-BASIS DIST CENTER,"*DIST*",66h,false,false,true,5,227,false
+9765,RICHMOND BASIS DIST CENTER,"*BASIS*",43V,true,true,true,10,712,true
+9766,RICHMOND CO-BASIS CONSIGN CTR,"*RICHMOND*",43V,true,true,false,1,901,false
+9767,SPRINGDALE BASIS DIST CENTER,"*DIST*",44A,true,false,true,4,352,true
+9768,SPRINGDALE CO-BASIS CONSIG CTR,"*CO-BASIS*",44A,false,false,false,10,200,false
+9769,YONKERS BASIS DIST CENTER,"*YONKERS*",41T,true,false,false,7,411,true
+9770,YONKERS CO-BASIS CONSIGN CTR,"*CONSIGN*",41T,false,true,false,7,186,true
+9771,ALBUQUERQUE BASIS DIST CENTER,"*ALBUQUERQUE*",61N,false,true,false,4,720,true
+9772,ALBUQUERQUE CO-BASIS CONSIGN,"*ALBUQUERQUE*",61N,true,true,true,9,980,false
+9773,SPOKANE BASIS DIST CENTER,"*DIST*",67I,false,true,true,6,677,true
+9774,SPOKANE CO-BASIS CONSIGN CTR,"*SPOKANE*",67I,false,false,true,5,792,false
+9775,Austin Co-Basis Consigment Ctr,"*Consigment*",66U,true,false,true,1,367,false
+9776,Austin Basis Distribution Ctr,"*Austin*",66U,false,true,false,2,357,true
+9777,Charlotte Co-Basis Consign Ctr,"*Ctr*",42L,false,false,false,10,959,false
+9778,Charlotte Basis Distribut Ctr,"*Charlotte*",42L,true,false,true,9,628,true
+9779,N Charlotte Consign,"*N*",42L,false,true,true,9,270,true
+9780,N Charlotte Dist Ctr,"*Charlotte*",42L,true,true,true,2,634,true
+9781,Acworth Basis Dist Ctr,"*Acworth*",42G,true,false,true,6,911,false
+9782,Acworth Co-B Consign,"*Co-B*",42G,true,false,true,9,94,false
+9783,Fairburn Basis Dist Ctr,"*Basis*",42G,true,false,false,6,319,false
+9784,Fairburn Co-B Consign Ctr,"*Ctr*",42G,false,true,false,6,850,true
+9785,Ft Worth Basis Dist Ctr,"*Basis*",66D,false,true,false,7,148,false
+9786,Ft Worth Cobasis Con Ctr,"*Ctr*",66D,true,false,false,8,873,true
+9787,Frisco Basis Distr Ctr,"*Distr*",66D,true,false,false,6,170,false
+9788,Frisco Co-B Con Ctr,"*Ctr*",66D,true,true,false,1,125,false
+9789,New Braunfels Co-B Ctr,"*New*",66U,false,true,false,5,447,true
+9790,New Braunfels Basis Dist,"*New*",66U,false,true,true,1,173,true
+9791,Jacksonville Basis Design,"*Design*",42S,true,true,true,8,948,false
+9792,Jacksonville Co-B Conign,"*Co-B*",42S,false,false,false,5,86,true
+9793,Rincon Basis Dist Ctr,"*Basis*",42S,false,false,true,9,380,true
+9794,Rincon C-Basis Dist Ct,"*Rincon*",42S,true,false,false,4,811,false
+9795,Middlesex Truss Dist Ctr,"*Dist*",41T,false,false,false,3,749,false
+9796,Middlesex Truss Consign Ct,"*Ct*",41T,false,true,false,2,695,false
+9797,TBSG Basis Dist Ctr,"*Basis*",42G,true,true,false,8,130,true
+9798,TBSG Co-B Consign Ctr,"*Co-B*",42G,true,false,true,8,209,true
+9799,Los Angeles Basis Dist Ctr,"*Dist*",69L,true,true,true,4,832,false
+9800,LA Co-B Consign Ctr,"*Consign*",69L,true,true,false,6,86,true
+9805,Morrisville Lumber & Supply,"*&*",41T,false,true,false,3,566,false
+9806,Centerpoint,"*Centerpoint*",ADM,true,false,true,3,761,true
+9807,Cumming Basis Dist Ctr,"*Basis*",42G,true,false,false,4,380,true
+9808,Cumming Co-B Consign Ctr,"*Consign*",42G,false,false,false,3,543,true
+9810,Garner Basis Consign Ctr,"*Garner*",41T,true,true,false,5,652,false
+9811,Lexington Basis Dist Ctr,"*Basis*",42C,true,true,false,6,455,true
+9812,Lexington Co-B Consign Ctr,"*Co-B*",42C,false,true,false,2,9,true
+9813,Manassas Basis Dist Ctr,"*Manassas*",43D,true,false,true,3,99,false
+9814,Manassas Co-B Consign Ctr,"*Consign*",43D,true,false,true,9,320,false
+9815,Youngsville Basis,"*Youngsville*",41T,false,true,false,8,315,false
+9816,Co-B Youngsville,"*Youngsville*",41T,true,true,false,2,437,false
+9817,El Paso Basis Distribution,"*Paso*",63E,true,false,false,8,576,false
+9818,El Paso Co-B Consign Ctr,"*Co-B*",63E,true,false,true,6,189,false
+9821,Midway Truss Basis Dist Ctr,"*Midway*",42S,true,false,true,1,965,false
+9822,Midway Truss Co-B Consign,"*Truss*",42S,false,true,true,4,275,true
+9823,Monroe Truss Basis Dist Ctr,"*Truss*",42L,true,false,true,4,695,false
+9824,Monroe Truss Co-B Consign,"*Co-B*",42L,false,false,true,9,883,false
+9825,Richmond Truss Co-B Dist,"*Dist*",43V,false,false,true,8,173,true
+9826,Richmond Truss Co-B Consign,"*Richmond*",43V,false,false,false,4,90,false
+9827,Dublin Basis Dist Ctr,"*Basis*",42S,true,true,false,5,171,true
+9828,Dublin Co-B Consign,"*Co-B*",42S,true,true,true,10,980,true
+9829,Greensboro Co-B Dist Ctr,"*Co-B*",42S,false,true,true,5,532,true
+9830,Greensboro Cb Consign Ctr,"*Greensboro*",42S,true,false,false,10,965,false
+9831,Kingsland Bas Dist Ctr,"*Dist*",42S,true,false,true,2,802,true
+9832,Kingsland Co-B Consign Ctr,"*Kingsland*",42S,true,false,true,3,728,true
+9833,Perry Basis Dist Ctr,"*Basis*",42S,true,false,false,1,74,true
+9834,Perry Co-B Consign Ctr,"*Perry*",42S,false,false,false,2,760,true
+9835,Greeley Bas Dist Ctr,"*Ctr*",62C,true,false,true,9,213,true
+9836,Greeley Consign Ctr,"*Ctr*",62C,false,true,false,7,648,false
+9837,Pueblo Bas Dist Ctr,"*Ctr*",62C,true,true,false,3,473,true
+9838,Pueblo Consign Ctr,"*Ctr*",62C,false,false,false,6,232,true
+9839,Oakboro Basis Distrib Center,"*Oakboro*",42L,false,false,false,8,598,true
+9840,Oakboro Co-Basis /Consign,"*Oakboro*",42L,false,true,true,4,976,false
+9877,Tarrius Artis,"*Artis*",69l,true,false,false,6,305,false
+9898,TEST FOR SHARAKA,"*TEST*",86L,true,false,false,7,155,true
+9901,CORP ADMIN,"*CORP*",ADM,false,false,true,5,900,true
+9902,Corporate Finance,"*Finance*",ADM,false,true,true,1,971,false
+9908,PURCHASING DEPT,"*PURCHASING*",ADM,true,true,true,3,172,true
+9912,Finance Plan & Analysis,"*Finance*",ADM,false,true,false,7,312,false
+9918,Finance Company,"*Finance*",ADM,true,false,false,9,475,true
+9920,Accounts Payable,"*Accounts*",ADM,true,true,true,3,58,true
+9924,BMC Texas Sales - Rosenberg,"*Texas*",ADM,false,false,true,1,300,false
+9927,CORPORATE WHOLESALE,"*WHOLESALE*",ADM,false,true,false,5,936,true
+9928,Corporate Reload,"*Reload*",ADM,false,false,false,1,142,true
+9930,IT ADMINISTRATION,"*ADMINISTRATION*",ADM,false,true,true,5,422,true
+9933,IT APPLICATION DEVELOPMENT,"*APPLICATION*",ADM,true,true,true,2,612,false
+9941,BMC Texas Sales - Helotes,"*Helotes*",ADM,true,false,false,4,869,false
+9948,Credit - Corporate,"*-*",ADM,true,false,false,9,617,false
+9950,BMC Texas Sales - Frisco,"*Frisco*",ADM,true,false,false,5,686,false
+9952,China Import Reload,"*Import*",ADM,true,false,true,8,187,false
+9953,CORP MARKETING,"*CORP*",ADM,false,true,false,8,546,true
+9960,CREDIT ADMIN,"*CREDIT*",ADM,false,false,false,2,425,true
+997,Salt Lake City Component Admin,"*Lake*",67S,true,true,false,3,403,false
+9972,Corporate Legal Department,"*Legal*",ADM,false,false,true,4,71,true
+9978,IT Quality Assurance,"*Quality*",ADM,false,false,false,8,68,false
+998,SALT LAKE CITY MKT ADMIN,"*LAKE*",67s,true,false,false,3,142,false
+9980,Payroll,"*Payroll*",ADM,false,false,true,7,366,true
+9988,WNS,"*WNS*",ADM,false,false,false,5,244,false
+9990,HR/BENEFITS,"*HR/BENEFITS*",ADM,true,true,false,9,652,true
+9992,MyBFS CUSTOMER PORTAL,"*CUSTOMER*",ADM,true,false,true,2,47,true
+HQ1,Head Quarters First Floor,"*First*",41T,false,false,false,9,243,false
+X123,SECRET TESTING WHSE,"*WHSE*",40,false,true,true,5,762,true
+z,Chudney Cogdekk,"*Chudney*",41T,true,false,true,5,371,false
+Z85,WOOHOO,"*WOOHOO*",85,false,true,false,2,245,true
+ZA07,S. GA Jacksonville Price Zone,"*Zone*",42S,true,true,true,1,638,false
